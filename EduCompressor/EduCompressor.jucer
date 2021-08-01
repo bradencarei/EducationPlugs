@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<JUCERPROJECT id="BLgB5G" name="EduCompressor" projectType="audioplug" useAppConfig="0"
+              addUsingNamespaceToJuceHeader="0" displaySplashScreen="1" jucerFormatVersion="1">
+  <MAINGROUP id="BC7JNQ" name="EduCompressor">
+    <GROUP id="{9A48C5DE-C617-CB25-78E4-EA05EC5D2368}" name="Source">
+      <FILE id="maHI4M" name="MicLogo.cpp" compile="1" resource="0" file="Source/MicLogo.cpp"/>
+      <FILE id="BEeSZ0" name="MicLogo.h" compile="0" resource="0" file="Source/MicLogo.h"/>
+      <GROUP id="{75E4CFA3-AE68-5931-A187-454FB54350E0}" name="BinaryData">
+        <FILE id="Fuwodv" name="attckFact.png" compile="0" resource="1" file="Source/BinaryData/attckFact.png"/>
+        <FILE id="Jad8KV" name="thotBubble.png" compile="0" resource="1" file="Source/BinaryData/thotBubble.png"/>
+        <FILE id="nU16Hh" name="plugBack.jpeg" compile="0" resource="1" file="Source/BinaryData/plugBack.jpeg"/>
+        <FILE id="qHm7mH" name="meter_back.png" compile="0" resource="1" file="Source/BinaryData/meter_back.png"/>
+        <FILE id="tE641n" name="micGraphic.png" compile="0" resource="1" file="Source/BinaryData/micGraphic.png"/>
+        <FILE id="xryxso" name="Knob.png" compile="0" resource="1" file="Source/BinaryData/Knob.png"/>
+      </GROUP>
+      <FILE id="zNijDL" name="PluginProcessor.cpp" compile="1" resource="0"
+            file="Source/PluginProcessor.cpp"/>
+      <FILE id="zXg7pi" name="PluginProcessor.h" compile="0" resource="0"
+            file="Source/PluginProcessor.h"/>
+      <FILE id="uSITFn" name="PluginEditor.cpp" compile="1" resource="0"
+            file="Source/PluginEditor.cpp"/>
+      <FILE id="CGtrpF" name="PluginEditor.h" compile="0" resource="0" file="Source/PluginEditor.h"/>
+      <FILE id="Yckr4P" name="Knob.cpp" compile="1" resource="0" file="Source/Knob.cpp"/>
+      <FILE id="fZ23H8" name="Knob.h" compile="0" resource="0" file="Source/Knob.h"/>
+    </GROUP>
+  </MAINGROUP>
+  <JUCEOPTIONS JUCE_STRICT_REFCOUNTEDPOINTER="1" JUCE_VST3_CAN_REPLACE_VST2="0"/>
+  <EXPORTFORMATS>
+    <XCODE_MAC targetFolder="Builds/MacOSX">
+      <CONFIGURATIONS>
+        <CONFIGURATION isDebug="1" name="Debug" targetName="EduCompressor"/>
+        <CONFIGURATION isDebug="0" name="Release" targetName="EduCompressor"/>
+      </CONFIGURATIONS>
+      <MODULEPATHS>
+        <MODULEPATH id="juce_audio_basics" path="../Downloads/JUCE 2/modules"/>
+        <MODULEPATH id="juce_audio_devices" path="../Downloads/JUCE 2/modules"/>
+        <MODULEPATH id="juce_audio_formats" path="../Downloads/JUCE 2/modules"/>
+        <MODULEPATH id="juce_audio_plugin_client" path="../Downloads/JUCE 2/modules"/>
+        <MODULEPATH id="juce_audio_processors" path="../Downloads/JUCE 2/modules"/>
+        <MODULEPATH id="juce_audio_utils" path="../Downloads/JUCE 2/modules"/>
+        <MODULEPATH id="juce_core" path="../Downloads/JUCE 2/modules"/>
+        <MODULEPATH id="juce_data_structures" path="../Downloads/JUCE 2/modules"/>
+        <MODULEPATH id="juce_dsp" path="../Downloads/JUCE 2/modules"/>
+        <MODULEPATH id="juce_events" path="../Downloads/JUCE 2/modules"/>
+        <MODULEPATH id="juce_graphics" path="../Downloads/JUCE 2/modules"/>
+        <MODULEPATH id="juce_gui_basics" path="../Downloads/JUCE 2/modules"/>
+        <MODULEPATH id="juce_gui_extra" path="../Downloads/JUCE 2/modules"/>
+      </MODULEPATHS>
+    </XCODE_MAC>
+  </EXPORTFORMATS>
+  <MODULES>
+    <MODULE id="juce_audio_basics" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_audio_devices" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_audio_formats" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_audio_plugin_client" showAllCode="1" useLocalCopy="0"
+            useGlobalPath="1"/>
+    <MODULE id="juce_audio_processors" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_audio_utils" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_core" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_data_structures" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_dsp" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_events" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_graphics" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_gui_basics" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+    <MODULE id="juce_gui_extra" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
+  </MODULES>
+  <LIVE_SETTINGS>
+    <OSX/>
+  </LIVE_SETTINGS>
+</JUCERPROJECT>

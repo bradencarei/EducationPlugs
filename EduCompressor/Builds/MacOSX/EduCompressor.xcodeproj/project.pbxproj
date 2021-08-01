@@ -1,0 +1,2178 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+		8D98FDF987F75423C747EE6A = {
+			isa = PBXBuildFile;
+			fileRef = F800E67F9D406D7221BD681B;
+		};
+		70E369DB612783A6E336A419 = {
+			isa = PBXBuildFile;
+			fileRef = 5EE21EFF9617538B2B4B2884;
+		};
+		9EEF93211A59F16B9A066247 = {
+			isa = PBXBuildFile;
+			fileRef = 44BF2489BD8D1DD576E7DB67;
+		};
+		C7B243F75EE626938ADA1449 = {
+			isa = PBXBuildFile;
+			fileRef = 1E7AE1C1094D0EC65E1C38EF;
+		};
+		F546F277A870B0C5C83EFC2A = {
+			isa = PBXBuildFile;
+			fileRef = 7EBC91E47CD0E85301D247A9;
+		};
+		450871FDD071055332BB8421 = {
+			isa = PBXBuildFile;
+			fileRef = 3EEEFD766802295845C8D62E;
+		};
+		6DBBBA09EEA3EEEA41AB0651 = {
+			isa = PBXBuildFile;
+			fileRef = E866F218E98AB41AF7824395;
+		};
+		48B6A6D42F803D27D1CDC677 = {
+			isa = PBXBuildFile;
+			fileRef = DB96921E8B9A5EF07025BE6C;
+		};
+		9FA00FDA81CBD1A760DA6F4A = {
+			isa = PBXBuildFile;
+			fileRef = C8EFB761BD0508213917A205;
+		};
+		F61533C36325CAEFAFD51597 = {
+			isa = PBXBuildFile;
+			fileRef = AE7611723F7CEFDBA54FACEA;
+		};
+		1E50FBE27EB23AFD26893F77 = {
+			isa = PBXBuildFile;
+			fileRef = EE035DDD6CCFC7746954563F;
+		};
+		C4E237FE5D60D86BE0BE6376 = {
+			isa = PBXBuildFile;
+			fileRef = E3299756D242C9AAC692FF2C;
+		};
+		2F6AC8BA9F3B21B17C2EE7EA = {
+			isa = PBXBuildFile;
+			fileRef = 5FA011ABB5B87C6B56660C9C;
+		};
+		3D8B4A05AECD5E8B34589936 = {
+			isa = PBXBuildFile;
+			fileRef = A0F8E22482FB7D3F7FEA1654;
+		};
+		11563AFBFD23158382BA3506 = {
+			isa = PBXBuildFile;
+			fileRef = F91F772B461A7C724FF10580;
+		};
+		7E5D2F4962BDD6DA0739118A = {
+			isa = PBXBuildFile;
+			fileRef = E721D0148FAD161A9F04F561;
+		};
+		9BCB034202765DC4DBFCB24D = {
+			isa = PBXBuildFile;
+			fileRef = 3C8ABA49BC7496CC5BABAA8D;
+		};
+		03F8946B8C26F8064669DB5D = {
+			isa = PBXBuildFile;
+			fileRef = C1BA0455E44A1E4A09236F20;
+		};
+		DC5688CB8DF9BD2A82F5917C = {
+			isa = PBXBuildFile;
+			fileRef = 10E67FCC2C29045DBBEA5F98;
+		};
+		0EBF63DEC97A23E389345EBF = {
+			isa = PBXBuildFile;
+			fileRef = 570304E1312D6256C3C3AB65;
+		};
+		3B4471C64B88BAA54812755E = {
+			isa = PBXBuildFile;
+			fileRef = 815E780E238DDCC3A0FC2701;
+		};
+		7112D182922C373F9AA257CE = {
+			isa = PBXBuildFile;
+			fileRef = 72D4C0CA550C813B0993D402;
+		};
+		3EE58AA6B5A85B1FABE5B7EB = {
+			isa = PBXBuildFile;
+			fileRef = 35BD246C7C70E190EA683917;
+		};
+		78A0D6051C4AABF058B87356 = {
+			isa = PBXBuildFile;
+			fileRef = 70C21D488345B3D21FD834B9;
+		};
+		767F3763D879DB13D191723E = {
+			isa = PBXBuildFile;
+			fileRef = 95C5634CDA85EF31576B66F6;
+		};
+		C6B6EFEEBA93DC288A223B66 = {
+			isa = PBXBuildFile;
+			fileRef = CEC9E7F8E0D09840403C06D6;
+		};
+		B67667FC567325B715989927 = {
+			isa = PBXBuildFile;
+			fileRef = 9E738C7314A3329EA5FB8AD8;
+		};
+		A7F45381C695C8830A0089C4 = {
+			isa = PBXBuildFile;
+			fileRef = 5C58F00D1F2F001397A65173;
+		};
+		997EECA8D059247D0A8A26B2 = {
+			isa = PBXBuildFile;
+			fileRef = F7B490F314B501EB5B364144;
+		};
+		BA3846D5BCCC4B2B9662C435 = {
+			isa = PBXBuildFile;
+			fileRef = 7090B05C66E3598527376E2B;
+		};
+		C5076154DD9164ECF7C7456F = {
+			isa = PBXBuildFile;
+			fileRef = A3ACEF88980832E1A6EAC6B2;
+		};
+		29D2103AC61254EE2723E5BA = {
+			isa = PBXBuildFile;
+			fileRef = D42CEC7E5BB283E9A956CB54;
+		};
+		D7B4F13F5D9C6AE371BA7550 = {
+			isa = PBXBuildFile;
+			fileRef = 7D5CE5A42CF37CFDA008DDEF;
+		};
+		7E6EEA33A9671F3A61884BC6 = {
+			isa = PBXBuildFile;
+			fileRef = AA846B8EF8B420E3344A90D7;
+		};
+		60CF5FE8E36FF1246F37A173 = {
+			isa = PBXBuildFile;
+			fileRef = 7B0367D23E967E1D29E95857;
+		};
+		5AD84A028283AECF39C236EE = {
+			isa = PBXBuildFile;
+			fileRef = 4E3F7E4BB87C499A07A55696;
+		};
+		0056FE0966419844A169B1C2 = {
+			isa = PBXBuildFile;
+			fileRef = 4FF44514514B169D66B06994;
+		};
+		1536CCDB49956A29584F8556 = {
+			isa = PBXBuildFile;
+			fileRef = 23FE12260C10894D1F292E8B;
+		};
+		203DC4D56EA4591C553430AD = {
+			isa = PBXBuildFile;
+			fileRef = A1ADAE91D9B75C47D58D6960;
+		};
+		F0BD0EAB8647C69ECC1A2661 = {
+			isa = PBXBuildFile;
+			fileRef = 02E9F745796713AE66353997;
+		};
+		B0109F02D46FDFB655473E17 = {
+			isa = PBXBuildFile;
+			fileRef = 6A69F0439ACFE9AC1CC52E35;
+		};
+		0E93BA25F575946FD776D586 = {
+			isa = PBXBuildFile;
+			fileRef = 161D2C5B120FC54DCFBB3812;
+		};
+		02E9F745796713AE66353997 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.cpp.objcpp;
+			name = "include_juce_graphics.mm";
+			path = "../../JuceLibraryCode/include_juce_graphics.mm";
+			sourceTree = "SOURCE_ROOT";
+		};
+		0D3B5EAA94160EB60CB34FFF = {
+			isa = PBXFileReference;
+			lastKnownFileType = file;
+			name = "juce_audio_utils";
+			path = "/Users/TheRealest/Downloads/JUCE 2/modules/juce_audio_utils";
+			sourceTree = "<absolute>";
+		};
+		10E67FCC2C29045DBBEA5F98 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.cpp.cpp;
+			name = MicLogo.cpp;
+			path = ../../Source/MicLogo.cpp;
+			sourceTree = "SOURCE_ROOT";
+		};
+		13272149A81EAB2AFA3521AD = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.h;
+			name = JucePluginDefines.h;
+			path = ../../JuceLibraryCode/JucePluginDefines.h;
+			sourceTree = "SOURCE_ROOT";
+		};
+		135B1D7C0504308DD4F7FD37 = {
+			isa = PBXFileReference;
+			lastKnownFileType = text.plist.xml;
+			name = "Info-Standalone_Plugin.plist";
+			path = "Info-Standalone_Plugin.plist";
+			sourceTree = "SOURCE_ROOT";
+		};
+		138618FBE4907D0A1ADAD7DA = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.h;
+			name = Knob.h;
+			path = ../../Source/Knob.h;
+			sourceTree = "SOURCE_ROOT";
+		};
+		161D2C5B120FC54DCFBB3812 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.cpp.objcpp;
+			name = "include_juce_gui_extra.mm";
+			path = "../../JuceLibraryCode/include_juce_gui_extra.mm";
+			sourceTree = "SOURCE_ROOT";
+		};
+		23FE12260C10894D1F292E8B = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.cpp.objcpp;
+			name = "include_juce_dsp.mm";
+			path = "../../JuceLibraryCode/include_juce_dsp.mm";
+			sourceTree = "SOURCE_ROOT";
+		};
+		35BD246C7C70E190EA683917 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.cpp.cpp;
+			name = BinaryData.cpp;
+			path = ../../JuceLibraryCode/BinaryData.cpp;
+			sourceTree = "SOURCE_ROOT";
+		};
+		35CFD7619B4A06064BE8E0B5 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.h;
+			name = PluginEditor.h;
+			path = ../../Source/PluginEditor.h;
+			sourceTree = "SOURCE_ROOT";
+		};
+		394AF73F5BB94E44E79C4E1A = {
+			isa = PBXFileReference;
+			lastKnownFileType = file;
+			name = "juce_audio_plugin_client";
+			path = "/Users/TheRealest/Downloads/JUCE 2/modules/juce_audio_plugin_client";
+			sourceTree = "<absolute>";
+		};
+		3EEEFD766802295845C8D62E = {
+			isa = PBXFileReference;
+			lastKnownFileType = wrapper.framework;
+			name = Accelerate.framework;
+			path = System/Library/Frameworks/Accelerate.framework;
+			sourceTree = SDKROOT;
+		};
+		F800E67F9D406D7221BD681B = {
+			isa = PBXFileReference;
+			explicitFileType = wrapper.cfbundle;
+			includeInIndex = 0;
+			path = EduCompressor.vst3;
+			sourceTree = "BUILT_PRODUCTS_DIR";
+		};
+		5EE21EFF9617538B2B4B2884 = {
+			isa = PBXFileReference;
+			explicitFileType = wrapper.cfbundle;
+			includeInIndex = 0;
+			path = EduCompressor.component;
+			sourceTree = "BUILT_PRODUCTS_DIR";
+		};
+		44BF2489BD8D1DD576E7DB67 = {
+			isa = PBXFileReference;
+			explicitFileType = wrapper.application;
+			includeInIndex = 0;
+			path = EduCompressor.app;
+			sourceTree = "BUILT_PRODUCTS_DIR";
+		};
+		1E7AE1C1094D0EC65E1C38EF = {
+			isa = PBXFileReference;
+			explicitFileType = archive.ar;
+			includeInIndex = 0;
+			path = libEduCompressor.a;
+			sourceTree = "BUILT_PRODUCTS_DIR";
+		};
+		3C8ABA49BC7496CC5BABAA8D = {
+			isa = PBXFileReference;
+			lastKnownFileType = wrapper.framework;
+			name = WebKit.framework;
+			path = System/Library/Frameworks/WebKit.framework;
+			sourceTree = SDKROOT;
+		};
+		4AA023405E0D7614F3E07782 = {
+			isa = PBXFileReference;
+			lastKnownFileType = file;
+			name = "juce_core";
+			path = "/Users/TheRealest/Downloads/JUCE 2/modules/juce_core";
+			sourceTree = "<absolute>";
+		};
+		4E3F7E4BB87C499A07A55696 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.cpp.objcpp;
+			name = "include_juce_core.mm";
+			path = "../../JuceLibraryCode/include_juce_core.mm";
+			sourceTree = "SOURCE_ROOT";
+		};
+		4FF44514514B169D66B06994 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.cpp.objcpp;
+			name = "include_juce_data_structures.mm";
+			path = "../../JuceLibraryCode/include_juce_data_structures.mm";
+			sourceTree = "SOURCE_ROOT";
+		};
+		55820F4FBB8333EF4B28C92A = {
+			isa = PBXFileReference;
+			lastKnownFileType = image.png;
+			name = Knob.png;
+			path = ../../Source/BinaryData/Knob.png;
+			sourceTree = "SOURCE_ROOT";
+		};
+		5660E9975F0058CAF53ED7CB = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.h;
+			name = MicLogo.h;
+			path = ../../Source/MicLogo.h;
+			sourceTree = "SOURCE_ROOT";
+		};
+		570304E1312D6256C3C3AB65 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.cpp.cpp;
+			name = PluginProcessor.cpp;
+			path = ../../Source/PluginProcessor.cpp;
+			sourceTree = "SOURCE_ROOT";
+		};
+		5C58F00D1F2F001397A65173 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.cpp.objcpp;
+			name = "include_juce_audio_plugin_client_AU_1.mm";
+			path = "../../JuceLibraryCode/include_juce_audio_plugin_client_AU_1.mm";
+			sourceTree = "SOURCE_ROOT";
+		};
+		5FA011ABB5B87C6B56660C9C = {
+			isa = PBXFileReference;
+			lastKnownFileType = wrapper.framework;
+			name = DiscRecording.framework;
+			path = System/Library/Frameworks/DiscRecording.framework;
+			sourceTree = SDKROOT;
+		};
+		68A6B45673D1F2563E232A0D = {
+			isa = PBXFileReference;
+			lastKnownFileType = file;
+			name = "juce_events";
+			path = "/Users/TheRealest/Downloads/JUCE 2/modules/juce_events";
+			sourceTree = "<absolute>";
+		};
+		6A69F0439ACFE9AC1CC52E35 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.cpp.objcpp;
+			name = "include_juce_gui_basics.mm";
+			path = "../../JuceLibraryCode/include_juce_gui_basics.mm";
+			sourceTree = "SOURCE_ROOT";
+		};
+		7090B05C66E3598527376E2B = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.cpp.cpp;
+			name = "include_juce_audio_plugin_client_Standalone.cpp";
+			path = "../../JuceLibraryCode/include_juce_audio_plugin_client_Standalone.cpp";
+			sourceTree = "SOURCE_ROOT";
+		};
+		70C21D488345B3D21FD834B9 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.cpp.objcpp;
+			name = "include_juce_audio_basics.mm";
+			path = "../../JuceLibraryCode/include_juce_audio_basics.mm";
+			sourceTree = "SOURCE_ROOT";
+		};
+		72D4C0CA550C813B0993D402 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.cpp.cpp;
+			name = Knob.cpp;
+			path = ../../Source/Knob.cpp;
+			sourceTree = "SOURCE_ROOT";
+		};
+		7B0367D23E967E1D29E95857 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.cpp.objcpp;
+			name = "include_juce_audio_utils.mm";
+			path = "../../JuceLibraryCode/include_juce_audio_utils.mm";
+			sourceTree = "SOURCE_ROOT";
+		};
+		7BD6F73622CB5394A75758C1 = {
+			isa = PBXFileReference;
+			lastKnownFileType = file;
+			name = "juce_audio_basics";
+			path = "/Users/TheRealest/Downloads/JUCE 2/modules/juce_audio_basics";
+			sourceTree = "<absolute>";
+		};
+		7D5CE5A42CF37CFDA008DDEF = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.cpp.cpp;
+			name = "include_juce_audio_plugin_client_VST3.cpp";
+			path = "../../JuceLibraryCode/include_juce_audio_plugin_client_VST3.cpp";
+			sourceTree = "SOURCE_ROOT";
+		};
+		7EBC91E47CD0E85301D247A9 = {
+			isa = PBXFileReference;
+			lastKnownFileType = wrapper.framework;
+			name = AudioUnit.framework;
+			path = System/Library/Frameworks/AudioUnit.framework;
+			sourceTree = SDKROOT;
+		};
+		815E780E238DDCC3A0FC2701 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.cpp.cpp;
+			name = PluginEditor.cpp;
+			path = ../../Source/PluginEditor.cpp;
+			sourceTree = "SOURCE_ROOT";
+		};
+		83A0BC2EF3B0FF45DD7C3332 = {
+			isa = PBXFileReference;
+			lastKnownFileType = file;
+			name = "juce_data_structures";
+			path = "/Users/TheRealest/Downloads/JUCE 2/modules/juce_data_structures";
+			sourceTree = "<absolute>";
+		};
+		8B1FCDA0743A8E22BF3933CC = {
+			isa = PBXFileReference;
+			lastKnownFileType = file;
+			name = "juce_audio_formats";
+			path = "/Users/TheRealest/Downloads/JUCE 2/modules/juce_audio_formats";
+			sourceTree = "<absolute>";
+		};
+		8F30BBC2DFB137D0DBFB4E55 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.h;
+			name = PluginProcessor.h;
+			path = ../../Source/PluginProcessor.h;
+			sourceTree = "SOURCE_ROOT";
+		};
+		90B850F062EC6E716AFC5E2D = {
+			isa = PBXFileReference;
+			lastKnownFileType = file;
+			name = "juce_audio_devices";
+			path = "/Users/TheRealest/Downloads/JUCE 2/modules/juce_audio_devices";
+			sourceTree = "<absolute>";
+		};
+		95C5634CDA85EF31576B66F6 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.cpp.objcpp;
+			name = "include_juce_audio_devices.mm";
+			path = "../../JuceLibraryCode/include_juce_audio_devices.mm";
+			sourceTree = "SOURCE_ROOT";
+		};
+		9E62EB37A7AFCACD3938494E = {
+			isa = PBXFileReference;
+			lastKnownFileType = image.png;
+			name = thotBubble.png;
+			path = ../../Source/BinaryData/thotBubble.png;
+			sourceTree = "SOURCE_ROOT";
+		};
+		9E738C7314A3329EA5FB8AD8 = {
+			isa = PBXFileReference;
+			lastKnownFileType = file.r;
+			name = "include_juce_audio_plugin_client_AU.r";
+			path = "../../JuceLibraryCode/include_juce_audio_plugin_client_AU.r";
+			sourceTree = "SOURCE_ROOT";
+		};
+		A0F8E22482FB7D3F7FEA1654 = {
+			isa = PBXFileReference;
+			lastKnownFileType = wrapper.framework;
+			name = Foundation.framework;
+			path = System/Library/Frameworks/Foundation.framework;
+			sourceTree = SDKROOT;
+		};
+		A1ADAE91D9B75C47D58D6960 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.cpp.objcpp;
+			name = "include_juce_events.mm";
+			path = "../../JuceLibraryCode/include_juce_events.mm";
+			sourceTree = "SOURCE_ROOT";
+		};
+		A3ACEF88980832E1A6EAC6B2 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.cpp.cpp;
+			name = "include_juce_audio_plugin_client_utils.cpp";
+			path = "../../JuceLibraryCode/include_juce_audio_plugin_client_utils.cpp";
+			sourceTree = "SOURCE_ROOT";
+		};
+		A5F4FA404F64A0DB8FFE7769 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.h;
+			name = BinaryData.h;
+			path = ../../JuceLibraryCode/BinaryData.h;
+			sourceTree = "SOURCE_ROOT";
+		};
+		A7E07660C912C1CBE4A6EBD8 = {
+			isa = PBXFileReference;
+			lastKnownFileType = file;
+			name = "juce_graphics";
+			path = "/Users/TheRealest/Downloads/JUCE 2/modules/juce_graphics";
+			sourceTree = "<absolute>";
+		};
+		AA846B8EF8B420E3344A90D7 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.cpp.objcpp;
+			name = "include_juce_audio_processors.mm";
+			path = "../../JuceLibraryCode/include_juce_audio_processors.mm";
+			sourceTree = "SOURCE_ROOT";
+		};
+		AE7611723F7CEFDBA54FACEA = {
+			isa = PBXFileReference;
+			lastKnownFileType = wrapper.framework;
+			name = CoreAudio.framework;
+			path = System/Library/Frameworks/CoreAudio.framework;
+			sourceTree = SDKROOT;
+		};
+		B13EEA8CE778B77FEB2F7E48 = {
+			isa = PBXFileReference;
+			lastKnownFileType = file;
+			name = "juce_gui_basics";
+			path = "/Users/TheRealest/Downloads/JUCE 2/modules/juce_gui_basics";
+			sourceTree = "<absolute>";
+		};
+		BA98292DD72BF66E385F43B5 = {
+			isa = PBXFileReference;
+			lastKnownFileType = text.plist.xml;
+			name = "Info-AU.plist";
+			path = "Info-AU.plist";
+			sourceTree = "SOURCE_ROOT";
+		};
+		C07E89089AC632BBA411AD37 = {
+			isa = PBXFileReference;
+			lastKnownFileType = image.png;
+			name = attckFact.png;
+			path = ../../Source/BinaryData/attckFact.png;
+			sourceTree = "SOURCE_ROOT";
+		};
+		C1BA0455E44A1E4A09236F20 = {
+			isa = PBXFileReference;
+			lastKnownFileType = file.nib;
+			name = RecentFilesMenuTemplate.nib;
+			path = RecentFilesMenuTemplate.nib;
+			sourceTree = "SOURCE_ROOT";
+		};
+		C61B97071174E81956F2048E = {
+			isa = PBXFileReference;
+			lastKnownFileType = text.plist.xml;
+			name = "Info-VST3.plist";
+			path = "Info-VST3.plist";
+			sourceTree = "SOURCE_ROOT";
+		};
+		C8EFB761BD0508213917A205 = {
+			isa = PBXFileReference;
+			lastKnownFileType = wrapper.framework;
+			name = Cocoa.framework;
+			path = System/Library/Frameworks/Cocoa.framework;
+			sourceTree = SDKROOT;
+		};
+		C98169C034695340B857E038 = {
+			isa = PBXFileReference;
+			lastKnownFileType = image.jpeg;
+			name = plugBack.jpeg;
+			path = ../../Source/BinaryData/plugBack.jpeg;
+			sourceTree = "SOURCE_ROOT";
+		};
+		CEC9E7F8E0D09840403C06D6 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.cpp.objcpp;
+			name = "include_juce_audio_formats.mm";
+			path = "../../JuceLibraryCode/include_juce_audio_formats.mm";
+			sourceTree = "SOURCE_ROOT";
+		};
+		D42CEC7E5BB283E9A956CB54 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.cpp.objcpp;
+			name = "include_juce_audio_plugin_client_VST_utils.mm";
+			path = "../../JuceLibraryCode/include_juce_audio_plugin_client_VST_utils.mm";
+			sourceTree = "SOURCE_ROOT";
+		};
+		DA8D60E12410BF509528D13D = {
+			isa = PBXFileReference;
+			lastKnownFileType = file;
+			name = "juce_gui_extra";
+			path = "/Users/TheRealest/Downloads/JUCE 2/modules/juce_gui_extra";
+			sourceTree = "<absolute>";
+		};
+		DB96921E8B9A5EF07025BE6C = {
+			isa = PBXFileReference;
+			lastKnownFileType = wrapper.framework;
+			name = Carbon.framework;
+			path = System/Library/Frameworks/Carbon.framework;
+			sourceTree = SDKROOT;
+		};
+		DBFC716E2A4B9168E0754767 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.c.h;
+			name = JuceHeader.h;
+			path = ../../JuceLibraryCode/JuceHeader.h;
+			sourceTree = "SOURCE_ROOT";
+		};
+		E3299756D242C9AAC692FF2C = {
+			isa = PBXFileReference;
+			lastKnownFileType = wrapper.framework;
+			name = CoreMIDI.framework;
+			path = System/Library/Frameworks/CoreMIDI.framework;
+			sourceTree = SDKROOT;
+		};
+		E703DC2CFDF946F39C23ABDD = {
+			isa = PBXFileReference;
+			lastKnownFileType = image.png;
+			name = micGraphic.png;
+			path = ../../Source/BinaryData/micGraphic.png;
+			sourceTree = "SOURCE_ROOT";
+		};
+		E721D0148FAD161A9F04F561 = {
+			isa = PBXFileReference;
+			lastKnownFileType = wrapper.framework;
+			name = QuartzCore.framework;
+			path = System/Library/Frameworks/QuartzCore.framework;
+			sourceTree = SDKROOT;
+		};
+		E73121993A0534487AF88A6A = {
+			isa = PBXFileReference;
+			lastKnownFileType = image.png;
+			name = "meter_back.png";
+			path = "../../Source/BinaryData/meter_back.png";
+			sourceTree = "SOURCE_ROOT";
+		};
+		E866F218E98AB41AF7824395 = {
+			isa = PBXFileReference;
+			lastKnownFileType = wrapper.framework;
+			name = AudioToolbox.framework;
+			path = System/Library/Frameworks/AudioToolbox.framework;
+			sourceTree = SDKROOT;
+		};
+		EC93C8D189C5FADF6BE9E177 = {
+			isa = PBXFileReference;
+			lastKnownFileType = file;
+			name = "juce_audio_processors";
+			path = "/Users/TheRealest/Downloads/JUCE 2/modules/juce_audio_processors";
+			sourceTree = "<absolute>";
+		};
+		EE035DDD6CCFC7746954563F = {
+			isa = PBXFileReference;
+			lastKnownFileType = wrapper.framework;
+			name = CoreAudioKit.framework;
+			path = System/Library/Frameworks/CoreAudioKit.framework;
+			sourceTree = SDKROOT;
+		};
+		EF6F4102E8278E6BD2E55547 = {
+			isa = PBXFileReference;
+			lastKnownFileType = file;
+			name = "juce_dsp";
+			path = "/Users/TheRealest/Downloads/JUCE 2/modules/juce_dsp";
+			sourceTree = "<absolute>";
+		};
+		F7B490F314B501EB5B364144 = {
+			isa = PBXFileReference;
+			lastKnownFileType = sourcecode.cpp.objcpp;
+			name = "include_juce_audio_plugin_client_AU_2.mm";
+			path = "../../JuceLibraryCode/include_juce_audio_plugin_client_AU_2.mm";
+			sourceTree = "SOURCE_ROOT";
+		};
+		F91F772B461A7C724FF10580 = {
+			isa = PBXFileReference;
+			lastKnownFileType = wrapper.framework;
+			name = IOKit.framework;
+			path = System/Library/Frameworks/IOKit.framework;
+			sourceTree = SDKROOT;
+		};
+		67A930725C11D5949868A22B = {
+			isa = PBXGroup;
+			children = (
+				C07E89089AC632BBA411AD37,
+				9E62EB37A7AFCACD3938494E,
+				C98169C034695340B857E038,
+				E73121993A0534487AF88A6A,
+				E703DC2CFDF946F39C23ABDD,
+				55820F4FBB8333EF4B28C92A,
+			);
+			name = BinaryData;
+			sourceTree = "<group>";
+		};
+		EB4430E5B0DF0FB48580E1CD = {
+			isa = PBXGroup;
+			children = (
+				10E67FCC2C29045DBBEA5F98,
+				5660E9975F0058CAF53ED7CB,
+				67A930725C11D5949868A22B,
+				570304E1312D6256C3C3AB65,
+				8F30BBC2DFB137D0DBFB4E55,
+				815E780E238DDCC3A0FC2701,
+				35CFD7619B4A06064BE8E0B5,
+				72D4C0CA550C813B0993D402,
+				138618FBE4907D0A1ADAD7DA,
+			);
+			name = Source;
+			sourceTree = "<group>";
+		};
+		4C0216DAC75A2585443A56E1 = {
+			isa = PBXGroup;
+			children = (
+				EB4430E5B0DF0FB48580E1CD,
+			);
+			name = EduCompressor;
+			sourceTree = "<group>";
+		};
+		3BA879E9F654CC2D84FC5EF5 = {
+			isa = PBXGroup;
+			children = (
+				7BD6F73622CB5394A75758C1,
+				90B850F062EC6E716AFC5E2D,
+				8B1FCDA0743A8E22BF3933CC,
+				394AF73F5BB94E44E79C4E1A,
+				EC93C8D189C5FADF6BE9E177,
+				0D3B5EAA94160EB60CB34FFF,
+				4AA023405E0D7614F3E07782,
+				83A0BC2EF3B0FF45DD7C3332,
+				EF6F4102E8278E6BD2E55547,
+				68A6B45673D1F2563E232A0D,
+				A7E07660C912C1CBE4A6EBD8,
+				B13EEA8CE778B77FEB2F7E48,
+				DA8D60E12410BF509528D13D,
+			);
+			name = "JUCE Modules";
+			sourceTree = "<group>";
+		};
+		FE94C7976BD68A8F6CD9A875 = {
+			isa = PBXGroup;
+			children = (
+				35BD246C7C70E190EA683917,
+				A5F4FA404F64A0DB8FFE7769,
+				70C21D488345B3D21FD834B9,
+				95C5634CDA85EF31576B66F6,
+				CEC9E7F8E0D09840403C06D6,
+				9E738C7314A3329EA5FB8AD8,
+				5C58F00D1F2F001397A65173,
+				F7B490F314B501EB5B364144,
+				7090B05C66E3598527376E2B,
+				A3ACEF88980832E1A6EAC6B2,
+				D42CEC7E5BB283E9A956CB54,
+				7D5CE5A42CF37CFDA008DDEF,
+				AA846B8EF8B420E3344A90D7,
+				7B0367D23E967E1D29E95857,
+				4E3F7E4BB87C499A07A55696,
+				4FF44514514B169D66B06994,
+				23FE12260C10894D1F292E8B,
+				A1ADAE91D9B75C47D58D6960,
+				02E9F745796713AE66353997,
+				6A69F0439ACFE9AC1CC52E35,
+				161D2C5B120FC54DCFBB3812,
+				DBFC716E2A4B9168E0754767,
+				13272149A81EAB2AFA3521AD,
+			);
+			name = "JUCE Library Code";
+			sourceTree = "<group>";
+		};
+		17FF83F38DA3E9869EB1FBC1 = {
+			isa = PBXGroup;
+			children = (
+				C61B97071174E81956F2048E,
+				BA98292DD72BF66E385F43B5,
+				135B1D7C0504308DD4F7FD37,
+				C1BA0455E44A1E4A09236F20,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		0C2F01ADB8FC9E77930205EE = {
+			isa = PBXGroup;
+			children = (
+				7EBC91E47CD0E85301D247A9,
+				3EEEFD766802295845C8D62E,
+				E866F218E98AB41AF7824395,
+				DB96921E8B9A5EF07025BE6C,
+				C8EFB761BD0508213917A205,
+				AE7611723F7CEFDBA54FACEA,
+				EE035DDD6CCFC7746954563F,
+				E3299756D242C9AAC692FF2C,
+				5FA011ABB5B87C6B56660C9C,
+				A0F8E22482FB7D3F7FEA1654,
+				F91F772B461A7C724FF10580,
+				E721D0148FAD161A9F04F561,
+				3C8ABA49BC7496CC5BABAA8D,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		3E42A087B54B6BEB6689B844 = {
+			isa = PBXGroup;
+			children = (
+				F800E67F9D406D7221BD681B,
+				5EE21EFF9617538B2B4B2884,
+				44BF2489BD8D1DD576E7DB67,
+				1E7AE1C1094D0EC65E1C38EF,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		B26F88CDD2D68FAEB4B4CF65 = {
+			isa = PBXGroup;
+			children = (
+				4C0216DAC75A2585443A56E1,
+				3BA879E9F654CC2D84FC5EF5,
+				FE94C7976BD68A8F6CD9A875,
+				17FF83F38DA3E9869EB1FBC1,
+				0C2F01ADB8FC9E77930205EE,
+				3E42A087B54B6BEB6689B844,
+			);
+			name = Source;
+			sourceTree = "<group>";
+		};
+		116CAE6605F004210B6A6D0F = {
+			isa = PBXTargetDependency;
+			target = 06397FB5EE03701DAFA2EC39;
+		};
+		5E0339D8936CD12F6F71EE2C = {
+			isa = PBXTargetDependency;
+			target = 473571CD748C5078B07BE1A1;
+		};
+		37593018474C9B048446F047 = {
+			isa = PBXTargetDependency;
+			target = CF71054AF57A060AE7B2A27D;
+		};
+		97D20EED6229D6F241655D46 = {
+			isa = PBXTargetDependency;
+			target = FC2B7C85B57E315C5FA96B15;
+		};
+		A19715AADDA3F6A208A06475 = {
+			isa = PBXTargetDependency;
+			target = FC2B7C85B57E315C5FA96B15;
+		};
+		CE002E8B2689A0FB0C8AE757 = {
+			isa = PBXTargetDependency;
+			target = FC2B7C85B57E315C5FA96B15;
+		};
+		7D0839784EAA239D4A0D14FC = {
+			isa = PBXTargetDependency;
+			target = FC2B7C85B57E315C5FA96B15;
+		};
+		D0897B27D7CAFCB5ABE895DB = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				MACOSX_DEPLOYMENT_TARGET = 10.11;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		1CA1B1216F34F21632BFDAC1 = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				MACOSX_DEPLOYMENT_TARGET = 10.11;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		3AD189829D239DC5F234B338 = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_CXX_LANGUAGE_STANDARD = "c++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_LINK_OBJC_RUNTIME = NO;
+				CODE_SIGN_IDENTITY = "";
+				COMBINE_HIDPI_IMAGES = YES;
+				CONFIGURATION_BUILD_DIR = "$(PROJECT_DIR)/build/$(CONFIGURATION)";
+				COPY_PHASE_STRIP = NO;
+				DEPLOYMENT_LOCATION = YES;
+				DSTROOT = /;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"_DEBUG=1",
+					"DEBUG=1",
+					"JUCE_DISPLAY_SPLASH_SCREEN=1",
+					"JUCE_USE_DARK_SPLASH_SCREEN=1",
+					"JUCE_PROJUCER_VERSION=0x60007",
+					"JUCE_MODULE_AVAILABLE_juce_audio_basics=1",
+					"JUCE_MODULE_AVAILABLE_juce_audio_devices=1",
+					"JUCE_MODULE_AVAILABLE_juce_audio_formats=1",
+					"JUCE_MODULE_AVAILABLE_juce_audio_plugin_client=1",
+					"JUCE_MODULE_AVAILABLE_juce_audio_processors=1",
+					"JUCE_MODULE_AVAILABLE_juce_audio_utils=1",
+					"JUCE_MODULE_AVAILABLE_juce_core=1",
+					"JUCE_MODULE_AVAILABLE_juce_data_structures=1",
+					"JUCE_MODULE_AVAILABLE_juce_dsp=1",
+					"JUCE_MODULE_AVAILABLE_juce_events=1",
+					"JUCE_MODULE_AVAILABLE_juce_graphics=1",
+					"JUCE_MODULE_AVAILABLE_juce_gui_basics=1",
+					"JUCE_MODULE_AVAILABLE_juce_gui_extra=1",
+					"JUCE_GLOBAL_MODULE_SETTINGS_INCLUDED=1",
+					"JUCE_VST3_CAN_REPLACE_VST2=0",
+					"JUCE_STRICT_REFCOUNTEDPOINTER=1",
+					"JucePlugin_Build_VST=0",
+					"JucePlugin_Build_VST3=1",
+					"JucePlugin_Build_AU=0",
+					"JucePlugin_Build_AUv3=0",
+					"JucePlugin_Build_RTAS=0",
+					"JucePlugin_Build_AAX=0",
+					"JucePlugin_Build_Standalone=0",
+					"JucePlugin_Build_Unity=0",
+					"JucePlugin_Enable_IAA=0",
+					"JucePlugin_Name=\\\"EduCompressor\\\"",
+					"JucePlugin_Desc=\\\"EduCompressor\\\"",
+					"JucePlugin_Manufacturer=\\\"yourcompany\\\"",
+					"JucePlugin_ManufacturerWebsite=\\\"\\\"",
+					"JucePlugin_ManufacturerEmail=\\\"\\\"",
+					"JucePlugin_ManufacturerCode=0x4d616e75",
+					"JucePlugin_PluginCode=0x426c6762",
+					"JucePlugin_IsSynth=0",
+					"JucePlugin_WantsMidiInput=0",
+					"JucePlugin_ProducesMidiOutput=0",
+					"JucePlugin_IsMidiEffect=0",
+					"JucePlugin_EditorRequiresKeyboardFocus=0",
+					"JucePlugin_Version=1.0.0",
+					"JucePlugin_VersionCode=0x10000",
+					"JucePlugin_VersionString=\\\"1.0.0\\\"",
+					"JucePlugin_VSTUniqueID=JucePlugin_PluginCode",
+					"JucePlugin_VSTCategory=kPlugCategEffect",
+					"JucePlugin_Vst3Category=\\\"Fx\\\"",
+					"JucePlugin_AUMainType='aufx'",
+					"JucePlugin_AUSubType=JucePlugin_PluginCode",
+					"JucePlugin_AUExportPrefix=EduCompressorAU",
+					"JucePlugin_AUExportPrefixQuoted=\\\"EduCompressorAU\\\"",
+					"JucePlugin_AUManufacturerCode=JucePlugin_ManufacturerCode",
+					"JucePlugin_CFBundleIdentifier=com.yourcompany.EduCompressor",
+					"JucePlugin_RTASCategory=0",
+					"JucePlugin_RTASManufacturerCode=JucePlugin_ManufacturerCode",
+					"JucePlugin_RTASProductId=JucePlugin_PluginCode",
+					"JucePlugin_RTASDisableBypass=0",
+					"JucePlugin_RTASDisableMultiMono=0",
+					"JucePlugin_AAXIdentifier=com.yourcompany.EduCompressor",
+					"JucePlugin_AAXManufacturerCode=JucePlugin_ManufacturerCode",
+					"JucePlugin_AAXProductId=JucePlugin_PluginCode",
+					"JucePlugin_AAXCategory=0",
+					"JucePlugin_AAXDisableBypass=0",
+					"JucePlugin_AAXDisableMultiMono=0",
+					"JucePlugin_IAAType=0x61757278",
+					"JucePlugin_IAASubType=JucePlugin_PluginCode",
+					"JucePlugin_IAAName=\\\"yourcompany:\\ EduCompressor\\\"",
+					"JucePlugin_VSTNumMidiInputs=16",
+					"JucePlugin_VSTNumMidiOutputs=16",
+					"JUCE_STANDALONE_APPLICATION=JucePlugin_Build_Standalone",
+					"JUCER_XCODE_MAC_F6D2F4CF=1",
+					"JUCE_APP_VERSION=1.0.0",
+					"JUCE_APP_VERSION_HEX=0x10000",
+				);
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GENERATE_PKGINFO_FILE = YES;
+				HEADER_SEARCH_PATHS = (
+					"\"/Users/TheRealest/Downloads/JUCE 2/modules/juce_audio_processors/format_types/VST3_SDK\"",
+					"$(SRCROOT)/../../JuceLibraryCode",
+					"\"/Users/TheRealest/Downloads/JUCE 2/modules\"",
+					"\"/Users/TheRealest/Downloads/JUCE 2/modules/juce_audio_plugin_client\"",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = Info-VST3.plist;
+				INFOPLIST_PREPROCESS = NO;
+				INSTALL_PATH = "$(HOME)/Library/Audio/Plug-Ins/VST3/";
+				LIBRARY_STYLE = Bundle;
+				MACOSX_DEPLOYMENT_TARGET = 10.11;
+				MTL_HEADER_SEARCH_PATHS = (
+					"\"/Users/TheRealest/Downloads/JUCE 2/modules/juce_audio_processors/format_types/VST3_SDK\"",
+					"$(SRCROOT)/../../JuceLibraryCode",
+					"\"/Users/TheRealest/Downloads/JUCE 2/modules\"",
+					"\"/Users/TheRealest/Downloads/JUCE 2/modules/juce_audio_plugin_client\"",
+				);
+				OTHER_LDFLAGS = "-bundle -lEduCompressor";
+				PRODUCT_BUNDLE_IDENTIFIER = com.yourcompany.EduCompressor;
+				PRODUCT_NAME = "EduCompressor";
+				USE_HEADERMAP = NO;
+				VALID_ARCHS = "i386 x86_64 arm64 arm64e";
+				WRAPPER_EXTENSION = vst3;
+			};
+			name = Debug;
+		};
+		8DFBC581702815A8DA9267A7 = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_CXX_LANGUAGE_STANDARD = "c++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_LINK_OBJC_RUNTIME = NO;
+				CODE_SIGN_IDENTITY = "";
+				COMBINE_HIDPI_IMAGES = YES;
+				CONFIGURATION_BUILD_DIR = "$(PROJECT_DIR)/build/$(CONFIGURATION)";
+				DEAD_CODE_STRIPPING = YES;
+				DEPLOYMENT_LOCATION = YES;
+				DSTROOT = /;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
+				GCC_OPTIMIZATION_LEVEL = 3;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"_NDEBUG=1",
+					"NDEBUG=1",
+					"JUCE_DISPLAY_SPLASH_SCREEN=1",
+					"JUCE_USE_DARK_SPLASH_SCREEN=1",
+					"JUCE_PROJUCER_VERSION=0x60007",
+					"JUCE_MODULE_AVAILABLE_juce_audio_basics=1",
+					"JUCE_MODULE_AVAILABLE_juce_audio_devices=1",
+					"JUCE_MODULE_AVAILABLE_juce_audio_formats=1",
+					"JUCE_MODULE_AVAILABLE_juce_audio_plugin_client=1",
+					"JUCE_MODULE_AVAILABLE_juce_audio_processors=1",
+					"JUCE_MODULE_AVAILABLE_juce_audio_utils=1",
+					"JUCE_MODULE_AVAILABLE_juce_core=1",
+					"JUCE_MODULE_AVAILABLE_juce_data_structures=1",
+					"JUCE_MODULE_AVAILABLE_juce_dsp=1",
+					"JUCE_MODULE_AVAILABLE_juce_events=1",
+					"JUCE_MODULE_AVAILABLE_juce_graphics=1",
+					"JUCE_MODULE_AVAILABLE_juce_gui_basics=1",
+					"JUCE_MODULE_AVAILABLE_juce_gui_extra=1",
+					"JUCE_GLOBAL_MODULE_SETTINGS_INCLUDED=1",
+					"JUCE_VST3_CAN_REPLACE_VST2=0",
+					"JUCE_STRICT_REFCOUNTEDPOINTER=1",
+					"JucePlugin_Build_VST=0",
+					"JucePlugin_Build_VST3=1",
+					"JucePlugin_Build_AU=0",
+					"JucePlugin_Build_AUv3=0",
+					"JucePlugin_Build_RTAS=0",
+					"JucePlugin_Build_AAX=0",
+					"JucePlugin_Build_Standalone=0",
+					"JucePlugin_Build_Unity=0",
+					"JucePlugin_Enable_IAA=0",
+					"JucePlugin_Name=\\\"EduCompressor\\\"",
+					"JucePlugin_Desc=\\\"EduCompressor\\\"",
+					"JucePlugin_Manufacturer=\\\"yourcompany\\\"",
+					"JucePlugin_ManufacturerWebsite=\\\"\\\"",
+					"JucePlugin_ManufacturerEmail=\\\"\\\"",
+					"JucePlugin_ManufacturerCode=0x4d616e75",
+					"JucePlugin_PluginCode=0x426c6762",
+					"JucePlugin_IsSynth=0",
+					"JucePlugin_WantsMidiInput=0",
+					"JucePlugin_ProducesMidiOutput=0",
+					"JucePlugin_IsMidiEffect=0",
+					"JucePlugin_EditorRequiresKeyboardFocus=0",
+					"JucePlugin_Version=1.0.0",
+					"JucePlugin_VersionCode=0x10000",
+					"JucePlugin_VersionString=\\\"1.0.0\\\"",
+					"JucePlugin_VSTUniqueID=JucePlugin_PluginCode",
+					"JucePlugin_VSTCategory=kPlugCategEffect",
+					"JucePlugin_Vst3Category=\\\"Fx\\\"",
+					"JucePlugin_AUMainType='aufx'",
+					"JucePlugin_AUSubType=JucePlugin_PluginCode",
+					"JucePlugin_AUExportPrefix=EduCompressorAU",
+					"JucePlugin_AUExportPrefixQuoted=\\\"EduCompressorAU\\\"",
+					"JucePlugin_AUManufacturerCode=JucePlugin_ManufacturerCode",
+					"JucePlugin_CFBundleIdentifier=com.yourcompany.EduCompressor",
+					"JucePlugin_RTASCategory=0",
+					"JucePlugin_RTASManufacturerCode=JucePlugin_ManufacturerCode",
+					"JucePlugin_RTASProductId=JucePlugin_PluginCode",
+					"JucePlugin_RTASDisableBypass=0",
+					"JucePlugin_RTASDisableMultiMono=0",
+					"JucePlugin_AAXIdentifier=com.yourcompany.EduCompressor",
+					"JucePlugin_AAXManufacturerCode=JucePlugin_ManufacturerCode",
+					"JucePlugin_AAXProductId=JucePlugin_PluginCode",
+					"JucePlugin_AAXCategory=0",
+					"JucePlugin_AAXDisableBypass=0",
+					"JucePlugin_AAXDisableMultiMono=0",
+					"JucePlugin_IAAType=0x61757278",
+					"JucePlugin_IAASubType=JucePlugin_PluginCode",
+					"JucePlugin_IAAName=\\\"yourcompany:\\ EduCompressor\\\"",
+					"JucePlugin_VSTNumMidiInputs=16",
+					"JucePlugin_VSTNumMidiOutputs=16",
+					"JUCE_STANDALONE_APPLICATION=JucePlugin_Build_Standalone",
+					"JUCER_XCODE_MAC_F6D2F4CF=1",
+					"JUCE_APP_VERSION=1.0.0",
+					"JUCE_APP_VERSION_HEX=0x10000",
+				);
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GENERATE_PKGINFO_FILE = YES;
+				HEADER_SEARCH_PATHS = (
+					"\"/Users/TheRealest/Downloads/JUCE 2/modules/juce_audio_processors/format_types/VST3_SDK\"",
+					"$(SRCROOT)/../../JuceLibraryCode",
+					"\"/Users/TheRealest/Downloads/JUCE 2/modules\"",
+					"\"/Users/TheRealest/Downloads/JUCE 2/modules/juce_audio_plugin_client\"",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = Info-VST3.plist;
+				INFOPLIST_PREPROCESS = NO;
+				INSTALL_PATH = "$(HOME)/Library/Audio/Plug-Ins/VST3/";
+				LIBRARY_STYLE = Bundle;
+				LLVM_LTO = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.11;
+				MTL_HEADER_SEARCH_PATHS = (
+					"\"/Users/TheRealest/Downloads/JUCE 2/modules/juce_audio_processors/format_types/VST3_SDK\"",
+					"$(SRCROOT)/../../JuceLibraryCode",
+					"\"/Users/TheRealest/Downloads/JUCE 2/modules\"",
+					"\"/Users/TheRealest/Downloads/JUCE 2/modules/juce_audio_plugin_client\"",
+				);
+				OTHER_LDFLAGS = "-bundle -lEduCompressor";
+				PRODUCT_BUNDLE_IDENTIFIER = com.yourcompany.EduCompressor;
+				PRODUCT_NAME = "EduCompressor";
+				USE_HEADERMAP = NO;
+				VALID_ARCHS = "i386 x86_64 arm64 arm64e";
+				WRAPPER_EXTENSION = vst3;
+			};
+			name = Release;
+		};
+		3F3851734BCF173AD31616A5 = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_CXX_LANGUAGE_STANDARD = "c++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_LINK_OBJC_RUNTIME = NO;
+				CODE_SIGN_IDENTITY = "";
+				COMBINE_HIDPI_IMAGES = YES;
+				CONFIGURATION_BUILD_DIR = "$(PROJECT_DIR)/build/$(CONFIGURATION)";
+				COPY_PHASE_STRIP = NO;
+				DEPLOYMENT_LOCATION = YES;
+				DSTROOT = /;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"_DEBUG=1",
+					"DEBUG=1",
+					"JUCE_DISPLAY_SPLASH_SCREEN=1",
+					"JUCE_USE_DARK_SPLASH_SCREEN=1",
+					"JUCE_PROJUCER_VERSION=0x60007",
+					"JUCE_MODULE_AVAILABLE_juce_audio_basics=1",
+					"JUCE_MODULE_AVAILABLE_juce_audio_devices=1",
+					"JUCE_MODULE_AVAILABLE_juce_audio_formats=1",
+					"JUCE_MODULE_AVAILABLE_juce_audio_plugin_client=1",
+					"JUCE_MODULE_AVAILABLE_juce_audio_processors=1",
+					"JUCE_MODULE_AVAILABLE_juce_audio_utils=1",
+					"JUCE_MODULE_AVAILABLE_juce_core=1",
+					"JUCE_MODULE_AVAILABLE_juce_data_structures=1",
+					"JUCE_MODULE_AVAILABLE_juce_dsp=1",
+					"JUCE_MODULE_AVAILABLE_juce_events=1",
+					"JUCE_MODULE_AVAILABLE_juce_graphics=1",
+					"JUCE_MODULE_AVAILABLE_juce_gui_basics=1",
+					"JUCE_MODULE_AVAILABLE_juce_gui_extra=1",
+					"JUCE_GLOBAL_MODULE_SETTINGS_INCLUDED=1",
+					"JUCE_VST3_CAN_REPLACE_VST2=0",
+					"JUCE_STRICT_REFCOUNTEDPOINTER=1",
+					"JucePlugin_Build_VST=0",
+					"JucePlugin_Build_VST3=0",
+					"JucePlugin_Build_AU=1",
+					"JucePlugin_Build_AUv3=0",
+					"JucePlugin_Build_RTAS=0",
+					"JucePlugin_Build_AAX=0",
+					"JucePlugin_Build_Standalone=0",
+					"JucePlugin_Build_Unity=0",
+					"JucePlugin_Enable_IAA=0",
+					"JucePlugin_Name=\\\"EduCompressor\\\"",
+					"JucePlugin_Desc=\\\"EduCompressor\\\"",
+					"JucePlugin_Manufacturer=\\\"yourcompany\\\"",
+					"JucePlugin_ManufacturerWebsite=\\\"\\\"",
+					"JucePlugin_ManufacturerEmail=\\\"\\\"",
+					"JucePlugin_ManufacturerCode=0x4d616e75",
+					"JucePlugin_PluginCode=0x426c6762",
+					"JucePlugin_IsSynth=0",
+					"JucePlugin_WantsMidiInput=0",
+					"JucePlugin_ProducesMidiOutput=0",
+					"JucePlugin_IsMidiEffect=0",
+					"JucePlugin_EditorRequiresKeyboardFocus=0",
+					"JucePlugin_Version=1.0.0",
+					"JucePlugin_VersionCode=0x10000",
+					"JucePlugin_VersionString=\\\"1.0.0\\\"",
+					"JucePlugin_VSTUniqueID=JucePlugin_PluginCode",
+					"JucePlugin_VSTCategory=kPlugCategEffect",
+					"JucePlugin_Vst3Category=\\\"Fx\\\"",
+					"JucePlugin_AUMainType='aufx'",
+					"JucePlugin_AUSubType=JucePlugin_PluginCode",
+					"JucePlugin_AUExportPrefix=EduCompressorAU",
+					"JucePlugin_AUExportPrefixQuoted=\\\"EduCompressorAU\\\"",
+					"JucePlugin_AUManufacturerCode=JucePlugin_ManufacturerCode",
+					"JucePlugin_CFBundleIdentifier=com.yourcompany.EduCompressor",
+					"JucePlugin_RTASCategory=0",
+					"JucePlugin_RTASManufacturerCode=JucePlugin_ManufacturerCode",
+					"JucePlugin_RTASProductId=JucePlugin_PluginCode",
+					"JucePlugin_RTASDisableBypass=0",
+					"JucePlugin_RTASDisableMultiMono=0",
+					"JucePlugin_AAXIdentifier=com.yourcompany.EduCompressor",
+					"JucePlugin_AAXManufacturerCode=JucePlugin_ManufacturerCode",
+					"JucePlugin_AAXProductId=JucePlugin_PluginCode",
+					"JucePlugin_AAXCategory=0",
+					"JucePlugin_AAXDisableBypass=0",
+					"JucePlugin_AAXDisableMultiMono=0",
+					"JucePlugin_IAAType=0x61757278",
+					"JucePlugin_IAASubType=JucePlugin_PluginCode",
+					"JucePlugin_IAAName=\\\"yourcompany:\\ EduCompressor\\\"",
+					"JucePlugin_VSTNumMidiInputs=16",
+					"JucePlugin_VSTNumMidiOutputs=16",
+					"JUCE_STANDALONE_APPLICATION=JucePlugin_Build_Standalone",
+					"JUCER_XCODE_MAC_F6D2F4CF=1",
+					"JUCE_APP_VERSION=1.0.0",
+					"JUCE_APP_VERSION_HEX=0x10000",
+				);
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GENERATE_PKGINFO_FILE = YES;
+				HEADER_SEARCH_PATHS = (
+					"\"/Users/TheRealest/Downloads/JUCE 2/modules/juce_audio_processors/format_types/VST3_SDK\"",
+					"$(SRCROOT)/../../JuceLibraryCode",
+					"\"/Users/TheRealest/Downloads/JUCE 2/modules\"",
+					"\"/Users/TheRealest/Downloads/JUCE 2/modules/juce_audio_plugin_client\"",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = Info-AU.plist;
+				INFOPLIST_PREPROCESS = NO;
+				INSTALL_PATH = "$(HOME)/Library/Audio/Plug-Ins/Components/";
+				LIBRARY_STYLE = Bundle;
+				MACOSX_DEPLOYMENT_TARGET = 10.11;
+				MTL_HEADER_SEARCH_PATHS = (
+					"\"/Users/TheRealest/Downloads/JUCE 2/modules/juce_audio_processors/format_types/VST3_SDK\"",
+					"$(SRCROOT)/../../JuceLibraryCode",
+					"\"/Users/TheRealest/Downloads/JUCE 2/modules\"",
+					"\"/Users/TheRealest/Downloads/JUCE 2/modules/juce_audio_plugin_client\"",
+				);
+				OTHER_LDFLAGS = "-bundle -lEduCompressor";
+				OTHER_REZFLAGS = "-d ppc_$ppc -d i386_$i386 -d ppc64_$ppc64 -d x86_64_$x86_64 -I /System/Library/Frameworks/CoreServices.framework/Frameworks/CarbonCore.framework/Versions/A/Headers -I \"$(DEVELOPER_DIR)/Extras/CoreAudio/AudioUnits/AUPublic/AUBase\" -I \"$(DEVELOPER_DIR)/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/AudioUnit.framework/Headers\"";
+				PRODUCT_BUNDLE_IDENTIFIER = com.yourcompany.EduCompressor;
+				PRODUCT_NAME = "EduCompressor";
+				USE_HEADERMAP = NO;
+				VALID_ARCHS = "i386 x86_64 arm64 arm64e";
+				WRAPPER_EXTENSION = component;
+			};
+			name = Debug;
+		};
+		609BD0629A445D85641063DD = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_CXX_LANGUAGE_STANDARD = "c++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_LINK_OBJC_RUNTIME = NO;
+				CODE_SIGN_IDENTITY = "";
+				COMBINE_HIDPI_IMAGES = YES;
+				CONFIGURATION_BUILD_DIR = "$(PROJECT_DIR)/build/$(CONFIGURATION)";
+				DEAD_CODE_STRIPPING = YES;
+				DEPLOYMENT_LOCATION = YES;
+				DSTROOT = /;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
+				GCC_OPTIMIZATION_LEVEL = 3;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"_NDEBUG=1",
+					"NDEBUG=1",
+					"JUCE_DISPLAY_SPLASH_SCREEN=1",
+					"JUCE_USE_DARK_SPLASH_SCREEN=1",
+					"JUCE_PROJUCER_VERSION=0x60007",
+					"JUCE_MODULE_AVAILABLE_juce_audio_basics=1",
+					"JUCE_MODULE_AVAILABLE_juce_audio_devices=1",
+					"JUCE_MODULE_AVAILABLE_juce_audio_formats=1",
+					"JUCE_MODULE_AVAILABLE_juce_audio_plugin_client=1",
+					"JUCE_MODULE_AVAILABLE_juce_audio_processors=1",
+					"JUCE_MODULE_AVAILABLE_juce_audio_utils=1",
+					"JUCE_MODULE_AVAILABLE_juce_core=1",
+					"JUCE_MODULE_AVAILABLE_juce_data_structures=1",
+					"JUCE_MODULE_AVAILABLE_juce_dsp=1",
+					"JUCE_MODULE_AVAILABLE_juce_events=1",
+					"JUCE_MODULE_AVAILABLE_juce_graphics=1",
+					"JUCE_MODULE_AVAILABLE_juce_gui_basics=1",
+					"JUCE_MODULE_AVAILABLE_juce_gui_extra=1",
+					"JUCE_GLOBAL_MODULE_SETTINGS_INCLUDED=1",
+					"JUCE_VST3_CAN_REPLACE_VST2=0",
+					"JUCE_STRICT_REFCOUNTEDPOINTER=1",
+					"JucePlugin_Build_VST=0",
+					"JucePlugin_Build_VST3=0",
+					"JucePlugin_Build_AU=1",
+					"JucePlugin_Build_AUv3=0",
+					"JucePlugin_Build_RTAS=0",
+					"JucePlugin_Build_AAX=0",
+					"JucePlugin_Build_Standalone=0",
+					"JucePlugin_Build_Unity=0",
+					"JucePlugin_Enable_IAA=0",
+					"JucePlugin_Name=\\\"EduCompressor\\\"",
+					"JucePlugin_Desc=\\\"EduCompressor\\\"",
+					"JucePlugin_Manufacturer=\\\"yourcompany\\\"",
+					"JucePlugin_ManufacturerWebsite=\\\"\\\"",
+					"JucePlugin_ManufacturerEmail=\\\"\\\"",
+					"JucePlugin_ManufacturerCode=0x4d616e75",
+					"JucePlugin_PluginCode=0x426c6762",
+					"JucePlugin_IsSynth=0",
+					"JucePlugin_WantsMidiInput=0",
+					"JucePlugin_ProducesMidiOutput=0",
+					"JucePlugin_IsMidiEffect=0",
+					"JucePlugin_EditorRequiresKeyboardFocus=0",
+					"JucePlugin_Version=1.0.0",
+					"JucePlugin_VersionCode=0x10000",
+					"JucePlugin_VersionString=\\\"1.0.0\\\"",
+					"JucePlugin_VSTUniqueID=JucePlugin_PluginCode",
+					"JucePlugin_VSTCategory=kPlugCategEffect",
+					"JucePlugin_Vst3Category=\\\"Fx\\\"",
+					"JucePlugin_AUMainType='aufx'",
+					"JucePlugin_AUSubType=JucePlugin_PluginCode",
+					"JucePlugin_AUExportPrefix=EduCompressorAU",
+					"JucePlugin_AUExportPrefixQuoted=\\\"EduCompressorAU\\\"",
+					"JucePlugin_AUManufacturerCode=JucePlugin_ManufacturerCode",
+					"JucePlugin_CFBundleIdentifier=com.yourcompany.EduCompressor",
+					"JucePlugin_RTASCategory=0",
+					"JucePlugin_RTASManufacturerCode=JucePlugin_ManufacturerCode",
+					"JucePlugin_RTASProductId=JucePlugin_PluginCode",
+					"JucePlugin_RTASDisableBypass=0",
+					"JucePlugin_RTASDisableMultiMono=0",
+					"JucePlugin_AAXIdentifier=com.yourcompany.EduCompressor",
+					"JucePlugin_AAXManufacturerCode=JucePlugin_ManufacturerCode",
+					"JucePlugin_AAXProductId=JucePlugin_PluginCode",
+					"JucePlugin_AAXCategory=0",
+					"JucePlugin_AAXDisableBypass=0",
+					"JucePlugin_AAXDisableMultiMono=0",
+					"JucePlugin_IAAType=0x61757278",
+					"JucePlugin_IAASubType=JucePlugin_PluginCode",
+					"JucePlugin_IAAName=\\\"yourcompany:\\ EduCompressor\\\"",
+					"JucePlugin_VSTNumMidiInputs=16",
+					"JucePlugin_VSTNumMidiOutputs=16",
+					"JUCE_STANDALONE_APPLICATION=JucePlugin_Build_Standalone",
+					"JUCER_XCODE_MAC_F6D2F4CF=1",
+					"JUCE_APP_VERSION=1.0.0",
+					"JUCE_APP_VERSION_HEX=0x10000",
+				);
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GENERATE_PKGINFO_FILE = YES;
+				HEADER_SEARCH_PATHS = (
+					"\"/Users/TheRealest/Downloads/JUCE 2/modules/juce_audio_processors/format_types/VST3_SDK\"",
+					"$(SRCROOT)/../../JuceLibraryCode",
+					"\"/Users/TheRealest/Downloads/JUCE 2/modules\"",
+					"\"/Users/TheRealest/Downloads/JUCE 2/modules/juce_audio_plugin_client\"",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = Info-AU.plist;
+				INFOPLIST_PREPROCESS = NO;
+				INSTALL_PATH = "$(HOME)/Library/Audio/Plug-Ins/Components/";
+				LIBRARY_STYLE = Bundle;
+				LLVM_LTO = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.11;
+				MTL_HEADER_SEARCH_PATHS = (
+					"\"/Users/TheRealest/Downloads/JUCE 2/modules/juce_audio_processors/format_types/VST3_SDK\"",
+					"$(SRCROOT)/../../JuceLibraryCode",
+					"\"/Users/TheRealest/Downloads/JUCE 2/modules\"",
+					"\"/Users/TheRealest/Downloads/JUCE 2/modules/juce_audio_plugin_client\"",
+				);
+				OTHER_LDFLAGS = "-bundle -lEduCompressor";
+				OTHER_REZFLAGS = "-d ppc_$ppc -d i386_$i386 -d ppc64_$ppc64 -d x86_64_$x86_64 -I /System/Library/Frameworks/CoreServices.framework/Frameworks/CarbonCore.framework/Versions/A/Headers -I \"$(DEVELOPER_DIR)/Extras/CoreAudio/AudioUnits/AUPublic/AUBase\" -I \"$(DEVELOPER_DIR)/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks/AudioUnit.framework/Headers\"";
+				PRODUCT_BUNDLE_IDENTIFIER = com.yourcompany.EduCompressor;
+				PRODUCT_NAME = "EduCompressor";
+				USE_HEADERMAP = NO;
+				VALID_ARCHS = "i386 x86_64 arm64 arm64e";
+				WRAPPER_EXTENSION = component;
+			};
+			name = Release;
+		};
+		D58329088421C285E5033262 = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_CXX_LANGUAGE_STANDARD = "c++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_LINK_OBJC_RUNTIME = NO;
+				CODE_SIGN_IDENTITY = "";
+				COMBINE_HIDPI_IMAGES = YES;
+				CONFIGURATION_BUILD_DIR = "$(PROJECT_DIR)/build/$(CONFIGURATION)";
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"_DEBUG=1",
+					"DEBUG=1",
+					"JUCE_DISPLAY_SPLASH_SCREEN=1",
+					"JUCE_USE_DARK_SPLASH_SCREEN=1",
+					"JUCE_PROJUCER_VERSION=0x60007",
+					"JUCE_MODULE_AVAILABLE_juce_audio_basics=1",
+					"JUCE_MODULE_AVAILABLE_juce_audio_devices=1",
+					"JUCE_MODULE_AVAILABLE_juce_audio_formats=1",
+					"JUCE_MODULE_AVAILABLE_juce_audio_plugin_client=1",
+					"JUCE_MODULE_AVAILABLE_juce_audio_processors=1",
+					"JUCE_MODULE_AVAILABLE_juce_audio_utils=1",
+					"JUCE_MODULE_AVAILABLE_juce_core=1",
+					"JUCE_MODULE_AVAILABLE_juce_data_structures=1",
+					"JUCE_MODULE_AVAILABLE_juce_dsp=1",
+					"JUCE_MODULE_AVAILABLE_juce_events=1",
+					"JUCE_MODULE_AVAILABLE_juce_graphics=1",
+					"JUCE_MODULE_AVAILABLE_juce_gui_basics=1",
+					"JUCE_MODULE_AVAILABLE_juce_gui_extra=1",
+					"JUCE_GLOBAL_MODULE_SETTINGS_INCLUDED=1",
+					"JUCE_VST3_CAN_REPLACE_VST2=0",
+					"JUCE_STRICT_REFCOUNTEDPOINTER=1",
+					"JucePlugin_Build_VST=0",
+					"JucePlugin_Build_VST3=0",
+					"JucePlugin_Build_AU=0",
+					"JucePlugin_Build_AUv3=0",
+					"JucePlugin_Build_RTAS=0",
+					"JucePlugin_Build_AAX=0",
+					"JucePlugin_Build_Standalone=1",
+					"JucePlugin_Build_Unity=0",
+					"JucePlugin_Enable_IAA=0",
+					"JucePlugin_Name=\\\"EduCompressor\\\"",
+					"JucePlugin_Desc=\\\"EduCompressor\\\"",
+					"JucePlugin_Manufacturer=\\\"yourcompany\\\"",
+					"JucePlugin_ManufacturerWebsite=\\\"\\\"",
+					"JucePlugin_ManufacturerEmail=\\\"\\\"",
+					"JucePlugin_ManufacturerCode=0x4d616e75",
+					"JucePlugin_PluginCode=0x426c6762",
+					"JucePlugin_IsSynth=0",
+					"JucePlugin_WantsMidiInput=0",
+					"JucePlugin_ProducesMidiOutput=0",
+					"JucePlugin_IsMidiEffect=0",
+					"JucePlugin_EditorRequiresKeyboardFocus=0",
+					"JucePlugin_Version=1.0.0",
+					"JucePlugin_VersionCode=0x10000",
+					"JucePlugin_VersionString=\\\"1.0.0\\\"",
+					"JucePlugin_VSTUniqueID=JucePlugin_PluginCode",
+					"JucePlugin_VSTCategory=kPlugCategEffect",
+					"JucePlugin_Vst3Category=\\\"Fx\\\"",
+					"JucePlugin_AUMainType='aufx'",
+					"JucePlugin_AUSubType=JucePlugin_PluginCode",
+					"JucePlugin_AUExportPrefix=EduCompressorAU",
+					"JucePlugin_AUExportPrefixQuoted=\\\"EduCompressorAU\\\"",
+					"JucePlugin_AUManufacturerCode=JucePlugin_ManufacturerCode",
+					"JucePlugin_CFBundleIdentifier=com.yourcompany.EduCompressor",
+					"JucePlugin_RTASCategory=0",
+					"JucePlugin_RTASManufacturerCode=JucePlugin_ManufacturerCode",
+					"JucePlugin_RTASProductId=JucePlugin_PluginCode",
+					"JucePlugin_RTASDisableBypass=0",
+					"JucePlugin_RTASDisableMultiMono=0",
+					"JucePlugin_AAXIdentifier=com.yourcompany.EduCompressor",
+					"JucePlugin_AAXManufacturerCode=JucePlugin_ManufacturerCode",
+					"JucePlugin_AAXProductId=JucePlugin_PluginCode",
+					"JucePlugin_AAXCategory=0",
+					"JucePlugin_AAXDisableBypass=0",
+					"JucePlugin_AAXDisableMultiMono=0",
+					"JucePlugin_IAAType=0x61757278",
+					"JucePlugin_IAASubType=JucePlugin_PluginCode",
+					"JucePlugin_IAAName=\\\"yourcompany:\\ EduCompressor\\\"",
+					"JucePlugin_VSTNumMidiInputs=16",
+					"JucePlugin_VSTNumMidiOutputs=16",
+					"JUCE_STANDALONE_APPLICATION=JucePlugin_Build_Standalone",
+					"JUCER_XCODE_MAC_F6D2F4CF=1",
+					"JUCE_APP_VERSION=1.0.0",
+					"JUCE_APP_VERSION_HEX=0x10000",
+				);
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				HEADER_SEARCH_PATHS = (
+					"\"/Users/TheRealest/Downloads/JUCE 2/modules/juce_audio_processors/format_types/VST3_SDK\"",
+					"$(SRCROOT)/../../JuceLibraryCode",
+					"\"/Users/TheRealest/Downloads/JUCE 2/modules\"",
+					"\"/Users/TheRealest/Downloads/JUCE 2/modules/juce_audio_plugin_client\"",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = Info-Standalone_Plugin.plist;
+				INFOPLIST_PREPROCESS = NO;
+				MACOSX_DEPLOYMENT_TARGET = 10.11;
+				MTL_HEADER_SEARCH_PATHS = (
+					"\"/Users/TheRealest/Downloads/JUCE 2/modules/juce_audio_processors/format_types/VST3_SDK\"",
+					"$(SRCROOT)/../../JuceLibraryCode",
+					"\"/Users/TheRealest/Downloads/JUCE 2/modules\"",
+					"\"/Users/TheRealest/Downloads/JUCE 2/modules/juce_audio_plugin_client\"",
+				);
+				OTHER_LDFLAGS = "-lEduCompressor";
+				PRODUCT_BUNDLE_IDENTIFIER = com.yourcompany.EduCompressor;
+				PRODUCT_NAME = "EduCompressor";
+				USE_HEADERMAP = NO;
+				VALID_ARCHS = "i386 x86_64 arm64 arm64e";
+			};
+			name = Debug;
+		};
+		6004FFA926F589CC71A83EDF = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_CXX_LANGUAGE_STANDARD = "c++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_LINK_OBJC_RUNTIME = NO;
+				CODE_SIGN_IDENTITY = "";
+				COMBINE_HIDPI_IMAGES = YES;
+				CONFIGURATION_BUILD_DIR = "$(PROJECT_DIR)/build/$(CONFIGURATION)";
+				DEAD_CODE_STRIPPING = YES;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
+				GCC_OPTIMIZATION_LEVEL = 3;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"_NDEBUG=1",
+					"NDEBUG=1",
+					"JUCE_DISPLAY_SPLASH_SCREEN=1",
+					"JUCE_USE_DARK_SPLASH_SCREEN=1",
+					"JUCE_PROJUCER_VERSION=0x60007",
+					"JUCE_MODULE_AVAILABLE_juce_audio_basics=1",
+					"JUCE_MODULE_AVAILABLE_juce_audio_devices=1",
+					"JUCE_MODULE_AVAILABLE_juce_audio_formats=1",
+					"JUCE_MODULE_AVAILABLE_juce_audio_plugin_client=1",
+					"JUCE_MODULE_AVAILABLE_juce_audio_processors=1",
+					"JUCE_MODULE_AVAILABLE_juce_audio_utils=1",
+					"JUCE_MODULE_AVAILABLE_juce_core=1",
+					"JUCE_MODULE_AVAILABLE_juce_data_structures=1",
+					"JUCE_MODULE_AVAILABLE_juce_dsp=1",
+					"JUCE_MODULE_AVAILABLE_juce_events=1",
+					"JUCE_MODULE_AVAILABLE_juce_graphics=1",
+					"JUCE_MODULE_AVAILABLE_juce_gui_basics=1",
+					"JUCE_MODULE_AVAILABLE_juce_gui_extra=1",
+					"JUCE_GLOBAL_MODULE_SETTINGS_INCLUDED=1",
+					"JUCE_VST3_CAN_REPLACE_VST2=0",
+					"JUCE_STRICT_REFCOUNTEDPOINTER=1",
+					"JucePlugin_Build_VST=0",
+					"JucePlugin_Build_VST3=0",
+					"JucePlugin_Build_AU=0",
+					"JucePlugin_Build_AUv3=0",
+					"JucePlugin_Build_RTAS=0",
+					"JucePlugin_Build_AAX=0",
+					"JucePlugin_Build_Standalone=1",
+					"JucePlugin_Build_Unity=0",
+					"JucePlugin_Enable_IAA=0",
+					"JucePlugin_Name=\\\"EduCompressor\\\"",
+					"JucePlugin_Desc=\\\"EduCompressor\\\"",
+					"JucePlugin_Manufacturer=\\\"yourcompany\\\"",
+					"JucePlugin_ManufacturerWebsite=\\\"\\\"",
+					"JucePlugin_ManufacturerEmail=\\\"\\\"",
+					"JucePlugin_ManufacturerCode=0x4d616e75",
+					"JucePlugin_PluginCode=0x426c6762",
+					"JucePlugin_IsSynth=0",
+					"JucePlugin_WantsMidiInput=0",
+					"JucePlugin_ProducesMidiOutput=0",
+					"JucePlugin_IsMidiEffect=0",
+					"JucePlugin_EditorRequiresKeyboardFocus=0",
+					"JucePlugin_Version=1.0.0",
+					"JucePlugin_VersionCode=0x10000",
+					"JucePlugin_VersionString=\\\"1.0.0\\\"",
+					"JucePlugin_VSTUniqueID=JucePlugin_PluginCode",
+					"JucePlugin_VSTCategory=kPlugCategEffect",
+					"JucePlugin_Vst3Category=\\\"Fx\\\"",
+					"JucePlugin_AUMainType='aufx'",
+					"JucePlugin_AUSubType=JucePlugin_PluginCode",
+					"JucePlugin_AUExportPrefix=EduCompressorAU",
+					"JucePlugin_AUExportPrefixQuoted=\\\"EduCompressorAU\\\"",
+					"JucePlugin_AUManufacturerCode=JucePlugin_ManufacturerCode",
+					"JucePlugin_CFBundleIdentifier=com.yourcompany.EduCompressor",
+					"JucePlugin_RTASCategory=0",
+					"JucePlugin_RTASManufacturerCode=JucePlugin_ManufacturerCode",
+					"JucePlugin_RTASProductId=JucePlugin_PluginCode",
+					"JucePlugin_RTASDisableBypass=0",
+					"JucePlugin_RTASDisableMultiMono=0",
+					"JucePlugin_AAXIdentifier=com.yourcompany.EduCompressor",
+					"JucePlugin_AAXManufacturerCode=JucePlugin_ManufacturerCode",
+					"JucePlugin_AAXProductId=JucePlugin_PluginCode",
+					"JucePlugin_AAXCategory=0",
+					"JucePlugin_AAXDisableBypass=0",
+					"JucePlugin_AAXDisableMultiMono=0",
+					"JucePlugin_IAAType=0x61757278",
+					"JucePlugin_IAASubType=JucePlugin_PluginCode",
+					"JucePlugin_IAAName=\\\"yourcompany:\\ EduCompressor\\\"",
+					"JucePlugin_VSTNumMidiInputs=16",
+					"JucePlugin_VSTNumMidiOutputs=16",
+					"JUCE_STANDALONE_APPLICATION=JucePlugin_Build_Standalone",
+					"JUCER_XCODE_MAC_F6D2F4CF=1",
+					"JUCE_APP_VERSION=1.0.0",
+					"JUCE_APP_VERSION_HEX=0x10000",
+				);
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				HEADER_SEARCH_PATHS = (
+					"\"/Users/TheRealest/Downloads/JUCE 2/modules/juce_audio_processors/format_types/VST3_SDK\"",
+					"$(SRCROOT)/../../JuceLibraryCode",
+					"\"/Users/TheRealest/Downloads/JUCE 2/modules\"",
+					"\"/Users/TheRealest/Downloads/JUCE 2/modules/juce_audio_plugin_client\"",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = Info-Standalone_Plugin.plist;
+				INFOPLIST_PREPROCESS = NO;
+				LLVM_LTO = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.11;
+				MTL_HEADER_SEARCH_PATHS = (
+					"\"/Users/TheRealest/Downloads/JUCE 2/modules/juce_audio_processors/format_types/VST3_SDK\"",
+					"$(SRCROOT)/../../JuceLibraryCode",
+					"\"/Users/TheRealest/Downloads/JUCE 2/modules\"",
+					"\"/Users/TheRealest/Downloads/JUCE 2/modules/juce_audio_plugin_client\"",
+				);
+				OTHER_LDFLAGS = "-lEduCompressor";
+				PRODUCT_BUNDLE_IDENTIFIER = com.yourcompany.EduCompressor;
+				PRODUCT_NAME = "EduCompressor";
+				USE_HEADERMAP = NO;
+				VALID_ARCHS = "i386 x86_64 arm64 arm64e";
+			};
+			name = Release;
+		};
+		398EB8AAE1C81E021503E2B8 = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_CXX_LANGUAGE_STANDARD = "c++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_LINK_OBJC_RUNTIME = NO;
+				CODE_SIGN_IDENTITY = "";
+				COMBINE_HIDPI_IMAGES = YES;
+				CONFIGURATION_BUILD_DIR = "$(PROJECT_DIR)/build/$(CONFIGURATION)";
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"_DEBUG=1",
+					"DEBUG=1",
+					"JUCE_DISPLAY_SPLASH_SCREEN=1",
+					"JUCE_USE_DARK_SPLASH_SCREEN=1",
+					"JUCE_PROJUCER_VERSION=0x60007",
+					"JUCE_MODULE_AVAILABLE_juce_audio_basics=1",
+					"JUCE_MODULE_AVAILABLE_juce_audio_devices=1",
+					"JUCE_MODULE_AVAILABLE_juce_audio_formats=1",
+					"JUCE_MODULE_AVAILABLE_juce_audio_plugin_client=1",
+					"JUCE_MODULE_AVAILABLE_juce_audio_processors=1",
+					"JUCE_MODULE_AVAILABLE_juce_audio_utils=1",
+					"JUCE_MODULE_AVAILABLE_juce_core=1",
+					"JUCE_MODULE_AVAILABLE_juce_data_structures=1",
+					"JUCE_MODULE_AVAILABLE_juce_dsp=1",
+					"JUCE_MODULE_AVAILABLE_juce_events=1",
+					"JUCE_MODULE_AVAILABLE_juce_graphics=1",
+					"JUCE_MODULE_AVAILABLE_juce_gui_basics=1",
+					"JUCE_MODULE_AVAILABLE_juce_gui_extra=1",
+					"JUCE_GLOBAL_MODULE_SETTINGS_INCLUDED=1",
+					"JUCE_VST3_CAN_REPLACE_VST2=0",
+					"JUCE_STRICT_REFCOUNTEDPOINTER=1",
+					"JucePlugin_Build_VST=0",
+					"JucePlugin_Build_VST3=1",
+					"JucePlugin_Build_AU=1",
+					"JucePlugin_Build_AUv3=0",
+					"JucePlugin_Build_RTAS=0",
+					"JucePlugin_Build_AAX=0",
+					"JucePlugin_Build_Standalone=1",
+					"JucePlugin_Build_Unity=0",
+					"JucePlugin_Enable_IAA=0",
+					"JucePlugin_Name=\\\"EduCompressor\\\"",
+					"JucePlugin_Desc=\\\"EduCompressor\\\"",
+					"JucePlugin_Manufacturer=\\\"yourcompany\\\"",
+					"JucePlugin_ManufacturerWebsite=\\\"\\\"",
+					"JucePlugin_ManufacturerEmail=\\\"\\\"",
+					"JucePlugin_ManufacturerCode=0x4d616e75",
+					"JucePlugin_PluginCode=0x426c6762",
+					"JucePlugin_IsSynth=0",
+					"JucePlugin_WantsMidiInput=0",
+					"JucePlugin_ProducesMidiOutput=0",
+					"JucePlugin_IsMidiEffect=0",
+					"JucePlugin_EditorRequiresKeyboardFocus=0",
+					"JucePlugin_Version=1.0.0",
+					"JucePlugin_VersionCode=0x10000",
+					"JucePlugin_VersionString=\\\"1.0.0\\\"",
+					"JucePlugin_VSTUniqueID=JucePlugin_PluginCode",
+					"JucePlugin_VSTCategory=kPlugCategEffect",
+					"JucePlugin_Vst3Category=\\\"Fx\\\"",
+					"JucePlugin_AUMainType='aufx'",
+					"JucePlugin_AUSubType=JucePlugin_PluginCode",
+					"JucePlugin_AUExportPrefix=EduCompressorAU",
+					"JucePlugin_AUExportPrefixQuoted=\\\"EduCompressorAU\\\"",
+					"JucePlugin_AUManufacturerCode=JucePlugin_ManufacturerCode",
+					"JucePlugin_CFBundleIdentifier=com.yourcompany.EduCompressor",
+					"JucePlugin_RTASCategory=0",
+					"JucePlugin_RTASManufacturerCode=JucePlugin_ManufacturerCode",
+					"JucePlugin_RTASProductId=JucePlugin_PluginCode",
+					"JucePlugin_RTASDisableBypass=0",
+					"JucePlugin_RTASDisableMultiMono=0",
+					"JucePlugin_AAXIdentifier=com.yourcompany.EduCompressor",
+					"JucePlugin_AAXManufacturerCode=JucePlugin_ManufacturerCode",
+					"JucePlugin_AAXProductId=JucePlugin_PluginCode",
+					"JucePlugin_AAXCategory=0",
+					"JucePlugin_AAXDisableBypass=0",
+					"JucePlugin_AAXDisableMultiMono=0",
+					"JucePlugin_IAAType=0x61757278",
+					"JucePlugin_IAASubType=JucePlugin_PluginCode",
+					"JucePlugin_IAAName=\\\"yourcompany:\\ EduCompressor\\\"",
+					"JucePlugin_VSTNumMidiInputs=16",
+					"JucePlugin_VSTNumMidiOutputs=16",
+					"JUCE_STANDALONE_APPLICATION=JucePlugin_Build_Standalone",
+					"JUCER_XCODE_MAC_F6D2F4CF=1",
+					"JUCE_APP_VERSION=1.0.0",
+					"JUCE_APP_VERSION_HEX=0x10000",
+					"JUCE_SHARED_CODE=1",
+				);
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				HEADER_SEARCH_PATHS = (
+					"\"/Users/TheRealest/Downloads/JUCE 2/modules/juce_audio_processors/format_types/VST3_SDK\"",
+					"$(SRCROOT)/../../JuceLibraryCode",
+					"\"/Users/TheRealest/Downloads/JUCE 2/modules\"",
+					"\"/Users/TheRealest/Downloads/JUCE 2/modules/juce_audio_plugin_client\"",
+					"$(inherited)",
+				);
+				INSTALL_PATH = "@executable_path/../Frameworks";
+				MACOSX_DEPLOYMENT_TARGET = 10.11;
+				MTL_HEADER_SEARCH_PATHS = (
+					"\"/Users/TheRealest/Downloads/JUCE 2/modules/juce_audio_processors/format_types/VST3_SDK\"",
+					"$(SRCROOT)/../../JuceLibraryCode",
+					"\"/Users/TheRealest/Downloads/JUCE 2/modules\"",
+					"\"/Users/TheRealest/Downloads/JUCE 2/modules/juce_audio_plugin_client\"",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.yourcompany.EduCompressor;
+				PRODUCT_NAME = "EduCompressor";
+				SKIP_INSTALL = YES;
+				USE_HEADERMAP = NO;
+				VALID_ARCHS = "i386 x86_64 arm64 arm64e";
+			};
+			name = Debug;
+		};
+		4F1207CEE730CAEF666544AF = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CLANG_CXX_LANGUAGE_STANDARD = "c++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_LINK_OBJC_RUNTIME = NO;
+				CODE_SIGN_IDENTITY = "";
+				COMBINE_HIDPI_IMAGES = YES;
+				CONFIGURATION_BUILD_DIR = "$(PROJECT_DIR)/build/$(CONFIGURATION)";
+				DEAD_CODE_STRIPPING = YES;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = NO;
+				GCC_OPTIMIZATION_LEVEL = 3;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"_NDEBUG=1",
+					"NDEBUG=1",
+					"JUCE_DISPLAY_SPLASH_SCREEN=1",
+					"JUCE_USE_DARK_SPLASH_SCREEN=1",
+					"JUCE_PROJUCER_VERSION=0x60007",
+					"JUCE_MODULE_AVAILABLE_juce_audio_basics=1",
+					"JUCE_MODULE_AVAILABLE_juce_audio_devices=1",
+					"JUCE_MODULE_AVAILABLE_juce_audio_formats=1",
+					"JUCE_MODULE_AVAILABLE_juce_audio_plugin_client=1",
+					"JUCE_MODULE_AVAILABLE_juce_audio_processors=1",
+					"JUCE_MODULE_AVAILABLE_juce_audio_utils=1",
+					"JUCE_MODULE_AVAILABLE_juce_core=1",
+					"JUCE_MODULE_AVAILABLE_juce_data_structures=1",
+					"JUCE_MODULE_AVAILABLE_juce_dsp=1",
+					"JUCE_MODULE_AVAILABLE_juce_events=1",
+					"JUCE_MODULE_AVAILABLE_juce_graphics=1",
+					"JUCE_MODULE_AVAILABLE_juce_gui_basics=1",
+					"JUCE_MODULE_AVAILABLE_juce_gui_extra=1",
+					"JUCE_GLOBAL_MODULE_SETTINGS_INCLUDED=1",
+					"JUCE_VST3_CAN_REPLACE_VST2=0",
+					"JUCE_STRICT_REFCOUNTEDPOINTER=1",
+					"JucePlugin_Build_VST=0",
+					"JucePlugin_Build_VST3=1",
+					"JucePlugin_Build_AU=1",
+					"JucePlugin_Build_AUv3=0",
+					"JucePlugin_Build_RTAS=0",
+					"JucePlugin_Build_AAX=0",
+					"JucePlugin_Build_Standalone=1",
+					"JucePlugin_Build_Unity=0",
+					"JucePlugin_Enable_IAA=0",
+					"JucePlugin_Name=\\\"EduCompressor\\\"",
+					"JucePlugin_Desc=\\\"EduCompressor\\\"",
+					"JucePlugin_Manufacturer=\\\"yourcompany\\\"",
+					"JucePlugin_ManufacturerWebsite=\\\"\\\"",
+					"JucePlugin_ManufacturerEmail=\\\"\\\"",
+					"JucePlugin_ManufacturerCode=0x4d616e75",
+					"JucePlugin_PluginCode=0x426c6762",
+					"JucePlugin_IsSynth=0",
+					"JucePlugin_WantsMidiInput=0",
+					"JucePlugin_ProducesMidiOutput=0",
+					"JucePlugin_IsMidiEffect=0",
+					"JucePlugin_EditorRequiresKeyboardFocus=0",
+					"JucePlugin_Version=1.0.0",
+					"JucePlugin_VersionCode=0x10000",
+					"JucePlugin_VersionString=\\\"1.0.0\\\"",
+					"JucePlugin_VSTUniqueID=JucePlugin_PluginCode",
+					"JucePlugin_VSTCategory=kPlugCategEffect",
+					"JucePlugin_Vst3Category=\\\"Fx\\\"",
+					"JucePlugin_AUMainType='aufx'",
+					"JucePlugin_AUSubType=JucePlugin_PluginCode",
+					"JucePlugin_AUExportPrefix=EduCompressorAU",
+					"JucePlugin_AUExportPrefixQuoted=\\\"EduCompressorAU\\\"",
+					"JucePlugin_AUManufacturerCode=JucePlugin_ManufacturerCode",
+					"JucePlugin_CFBundleIdentifier=com.yourcompany.EduCompressor",
+					"JucePlugin_RTASCategory=0",
+					"JucePlugin_RTASManufacturerCode=JucePlugin_ManufacturerCode",
+					"JucePlugin_RTASProductId=JucePlugin_PluginCode",
+					"JucePlugin_RTASDisableBypass=0",
+					"JucePlugin_RTASDisableMultiMono=0",
+					"JucePlugin_AAXIdentifier=com.yourcompany.EduCompressor",
+					"JucePlugin_AAXManufacturerCode=JucePlugin_ManufacturerCode",
+					"JucePlugin_AAXProductId=JucePlugin_PluginCode",
+					"JucePlugin_AAXCategory=0",
+					"JucePlugin_AAXDisableBypass=0",
+					"JucePlugin_AAXDisableMultiMono=0",
+					"JucePlugin_IAAType=0x61757278",
+					"JucePlugin_IAASubType=JucePlugin_PluginCode",
+					"JucePlugin_IAAName=\\\"yourcompany:\\ EduCompressor\\\"",
+					"JucePlugin_VSTNumMidiInputs=16",
+					"JucePlugin_VSTNumMidiOutputs=16",
+					"JUCE_STANDALONE_APPLICATION=JucePlugin_Build_Standalone",
+					"JUCER_XCODE_MAC_F6D2F4CF=1",
+					"JUCE_APP_VERSION=1.0.0",
+					"JUCE_APP_VERSION_HEX=0x10000",
+					"JUCE_SHARED_CODE=1",
+				);
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				HEADER_SEARCH_PATHS = (
+					"\"/Users/TheRealest/Downloads/JUCE 2/modules/juce_audio_processors/format_types/VST3_SDK\"",
+					"$(SRCROOT)/../../JuceLibraryCode",
+					"\"/Users/TheRealest/Downloads/JUCE 2/modules\"",
+					"\"/Users/TheRealest/Downloads/JUCE 2/modules/juce_audio_plugin_client\"",
+					"$(inherited)",
+				);
+				INSTALL_PATH = "@executable_path/../Frameworks";
+				LLVM_LTO = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.11;
+				MTL_HEADER_SEARCH_PATHS = (
+					"\"/Users/TheRealest/Downloads/JUCE 2/modules/juce_audio_processors/format_types/VST3_SDK\"",
+					"$(SRCROOT)/../../JuceLibraryCode",
+					"\"/Users/TheRealest/Downloads/JUCE 2/modules\"",
+					"\"/Users/TheRealest/Downloads/JUCE 2/modules/juce_audio_plugin_client\"",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.yourcompany.EduCompressor;
+				PRODUCT_NAME = "EduCompressor";
+				SKIP_INSTALL = YES;
+				USE_HEADERMAP = NO;
+				VALID_ARCHS = "i386 x86_64 arm64 arm64e";
+			};
+			name = Release;
+		};
+		42C5542875D5C834549F67FC = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "";
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = NO;
+				GCC_C_LANGUAGE_STANDARD = c11;
+				GCC_INLINES_ARE_PRIVATE_EXTERN = YES;
+				GCC_MODEL_TUNING = G5;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_SYMBOLS_PRIVATE_EXTERN = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_CHECK_SWITCH_STATEMENTS = YES;
+				GCC_WARN_MISSING_PARENTHESES = YES;
+				GCC_WARN_NON_VIRTUAL_DESTRUCTOR = YES;
+				GCC_WARN_TYPECHECK_CALLS_TO_PRINTF = YES;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				PRODUCT_NAME = "EduCompressor";
+				SDKROOT = macosx;
+				WARNING_CFLAGS = "-Wreorder";
+				ZERO_LINK = NO;
+			};
+			name = Debug;
+		};
+		306787A3420D6A63C19B05A9 = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "";
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = NO;
+				GCC_C_LANGUAGE_STANDARD = c11;
+				GCC_INLINES_ARE_PRIVATE_EXTERN = YES;
+				GCC_MODEL_TUNING = G5;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_SYMBOLS_PRIVATE_EXTERN = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_CHECK_SWITCH_STATEMENTS = YES;
+				GCC_WARN_MISSING_PARENTHESES = YES;
+				GCC_WARN_NON_VIRTUAL_DESTRUCTOR = YES;
+				GCC_WARN_TYPECHECK_CALLS_TO_PRINTF = YES;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				PRODUCT_NAME = "EduCompressor";
+				SDKROOT = macosx;
+				WARNING_CFLAGS = "-Wreorder";
+				ZERO_LINK = NO;
+			};
+			name = Release;
+		};
+		7E1F78DEE635E02CA158CFAA = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				42C5542875D5C834549F67FC,
+				306787A3420D6A63C19B05A9,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+		9BC73A21511A702350A26F6A = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D0897B27D7CAFCB5ABE895DB,
+				1CA1B1216F34F21632BFDAC1,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+		87B28EA55D84EA8D864786D1 = {
+			isa = PBXAggregateTarget;
+			buildConfigurationList = 9BC73A21511A702350A26F6A;
+			buildPhases = ( );
+			buildRules = ( );
+			dependencies = (
+				116CAE6605F004210B6A6D0F,
+				5E0339D8936CD12F6F71EE2C,
+				37593018474C9B048446F047,
+				97D20EED6229D6F241655D46,
+			);
+			name = "EduCompressor - All";
+			productName = EduCompressor;
+		};
+		3D062812FD44BD7928CB6071 = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3AD189829D239DC5F234B338,
+				8DFBC581702815A8DA9267A7,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+		7AE7D5EEE4C7F8889AE04A17 = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				03F8946B8C26F8064669DB5D,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		0B01FA310E78B0D38A899A95 = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D7B4F13F5D9C6AE371BA7550,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		C61CF9DD69F4C7AD9688BB82 = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				450871FDD071055332BB8421,
+				6DBBBA09EEA3EEEA41AB0651,
+				48B6A6D42F803D27D1CDC677,
+				9FA00FDA81CBD1A760DA6F4A,
+				F61533C36325CAEFAFD51597,
+				1E50FBE27EB23AFD26893F77,
+				C4E237FE5D60D86BE0BE6376,
+				2F6AC8BA9F3B21B17C2EE7EA,
+				3D8B4A05AECD5E8B34589936,
+				11563AFBFD23158382BA3506,
+				7E5D2F4962BDD6DA0739118A,
+				9BCB034202765DC4DBFCB24D,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		06397FB5EE03701DAFA2EC39 = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 3D062812FD44BD7928CB6071;
+			buildPhases = (
+				7AE7D5EEE4C7F8889AE04A17,
+				0B01FA310E78B0D38A899A95,
+				C61CF9DD69F4C7AD9688BB82,
+			);
+			buildRules = ( );
+			dependencies = (
+				A19715AADDA3F6A208A06475,
+			);
+			name = "EduCompressor - VST3";
+			productName = EduCompressor;
+			productReference = F800E67F9D406D7221BD681B;
+			productType = "com.apple.product-type.bundle";
+		};
+		BBD24D54D76563CDC7C2441F = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3F3851734BCF173AD31616A5,
+				609BD0629A445D85641063DD,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+		E9EFEB6A4A2D7C2BCC42F839 = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				03F8946B8C26F8064669DB5D,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		BB471500FCA1400B37238050 = {
+			isa = PBXRezBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B67667FC567325B715989927,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		4FB3E20A29FDF8387B1DAA4C = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A7F45381C695C8830A0089C4,
+				997EECA8D059247D0A8A26B2,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		A805E338020DDD12EAA7DCAE = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F546F277A870B0C5C83EFC2A,
+				450871FDD071055332BB8421,
+				6DBBBA09EEA3EEEA41AB0651,
+				48B6A6D42F803D27D1CDC677,
+				9FA00FDA81CBD1A760DA6F4A,
+				F61533C36325CAEFAFD51597,
+				1E50FBE27EB23AFD26893F77,
+				C4E237FE5D60D86BE0BE6376,
+				2F6AC8BA9F3B21B17C2EE7EA,
+				3D8B4A05AECD5E8B34589936,
+				11563AFBFD23158382BA3506,
+				7E5D2F4962BDD6DA0739118A,
+				9BCB034202765DC4DBFCB24D,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		473571CD748C5078B07BE1A1 = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = BBD24D54D76563CDC7C2441F;
+			buildPhases = (
+				E9EFEB6A4A2D7C2BCC42F839,
+				BB471500FCA1400B37238050,
+				4FB3E20A29FDF8387B1DAA4C,
+				A805E338020DDD12EAA7DCAE,
+			);
+			buildRules = ( );
+			dependencies = (
+				CE002E8B2689A0FB0C8AE757,
+			);
+			name = "EduCompressor - AU";
+			productName = EduCompressor;
+			productReference = 5EE21EFF9617538B2B4B2884;
+			productType = "com.apple.product-type.bundle";
+		};
+		81B22256CF88DB7DE7160552 = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D58329088421C285E5033262,
+				6004FFA926F589CC71A83EDF,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+		B93AE3DFB00D60787DFF0982 = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				03F8946B8C26F8064669DB5D,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		57CA969B2948F710168022BF = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				BA3846D5BCCC4B2B9662C435,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		5856626F25DA30398B00262B = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				450871FDD071055332BB8421,
+				6DBBBA09EEA3EEEA41AB0651,
+				48B6A6D42F803D27D1CDC677,
+				9FA00FDA81CBD1A760DA6F4A,
+				F61533C36325CAEFAFD51597,
+				1E50FBE27EB23AFD26893F77,
+				C4E237FE5D60D86BE0BE6376,
+				2F6AC8BA9F3B21B17C2EE7EA,
+				3D8B4A05AECD5E8B34589936,
+				11563AFBFD23158382BA3506,
+				7E5D2F4962BDD6DA0739118A,
+				9BCB034202765DC4DBFCB24D,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		CF71054AF57A060AE7B2A27D = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 81B22256CF88DB7DE7160552;
+			buildPhases = (
+				B93AE3DFB00D60787DFF0982,
+				57CA969B2948F710168022BF,
+				5856626F25DA30398B00262B,
+			);
+			buildRules = ( );
+			dependencies = (
+				7D0839784EAA239D4A0D14FC,
+			);
+			name = "EduCompressor - Standalone Plugin";
+			productName = EduCompressor;
+			productReference = 44BF2489BD8D1DD576E7DB67;
+			productType = "com.apple.product-type.application";
+		};
+		D334DC5BC269C6167EE0C031 = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				398EB8AAE1C81E021503E2B8,
+				4F1207CEE730CAEF666544AF,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Debug;
+		};
+		3445F3946A83F549AA89A480 = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				DC5688CB8DF9BD2A82F5917C,
+				0EBF63DEC97A23E389345EBF,
+				3B4471C64B88BAA54812755E,
+				7112D182922C373F9AA257CE,
+				3EE58AA6B5A85B1FABE5B7EB,
+				78A0D6051C4AABF058B87356,
+				767F3763D879DB13D191723E,
+				C6B6EFEEBA93DC288A223B66,
+				C5076154DD9164ECF7C7456F,
+				29D2103AC61254EE2723E5BA,
+				7E6EEA33A9671F3A61884BC6,
+				60CF5FE8E36FF1246F37A173,
+				5AD84A028283AECF39C236EE,
+				0056FE0966419844A169B1C2,
+				1536CCDB49956A29584F8556,
+				203DC4D56EA4591C553430AD,
+				F0BD0EAB8647C69ECC1A2661,
+				B0109F02D46FDFB655473E17,
+				0E93BA25F575946FD776D586,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		FC2B7C85B57E315C5FA96B15 = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = D334DC5BC269C6167EE0C031;
+			buildPhases = (
+				3445F3946A83F549AA89A480,
+			);
+			buildRules = ( );
+			dependencies = ( );
+			name = "EduCompressor - Shared Code";
+			productName = EduCompressor;
+			productReference = 1E7AE1C1094D0EC65E1C38EF;
+			productType = "com.apple.product-type.library.static";
+		};
+		0B07692D9771584CF18C7259 = {
+			isa = PBXProject;
+			buildConfigurationList = 7E1F78DEE635E02CA158CFAA;
+			attributes = { LastUpgradeCheck = 1230; ORGANIZATIONNAME = ""; TargetAttributes = { 87B28EA55D84EA8D864786D1 = { SystemCapabilities = {com.apple.ApplicationGroups.iOS = { enabled = 0; }; com.apple.InAppPurchase = { enabled = 0; }; com.apple.InterAppAudio = { enabled = 0; }; com.apple.Push = { enabled = 0; }; com.apple.Sandbox = { enabled = 0; }; com.apple.HardenedRuntime = { enabled = 0; }; }; };06397FB5EE03701DAFA2EC39 = { SystemCapabilities = {com.apple.ApplicationGroups.iOS = { enabled = 0; }; com.apple.InAppPurchase = { enabled = 0; }; com.apple.InterAppAudio = { enabled = 0; }; com.apple.Push = { enabled = 0; }; com.apple.Sandbox = { enabled = 0; }; com.apple.HardenedRuntime = { enabled = 0; }; }; };473571CD748C5078B07BE1A1 = { SystemCapabilities = {com.apple.ApplicationGroups.iOS = { enabled = 0; }; com.apple.InAppPurchase = { enabled = 0; }; com.apple.InterAppAudio = { enabled = 0; }; com.apple.Push = { enabled = 0; }; com.apple.Sandbox = { enabled = 0; }; com.apple.HardenedRuntime = { enabled = 0; }; }; };CF71054AF57A060AE7B2A27D = { SystemCapabilities = {com.apple.ApplicationGroups.iOS = { enabled = 0; }; com.apple.InAppPurchase = { enabled = 0; }; com.apple.InterAppAudio = { enabled = 0; }; com.apple.Push = { enabled = 0; }; com.apple.Sandbox = { enabled = 0; }; com.apple.HardenedRuntime = { enabled = 0; }; }; };FC2B7C85B57E315C5FA96B15 = { SystemCapabilities = {com.apple.ApplicationGroups.iOS = { enabled = 0; }; com.apple.InAppPurchase = { enabled = 0; }; com.apple.InterAppAudio = { enabled = 0; }; com.apple.Push = { enabled = 0; }; com.apple.Sandbox = { enabled = 0; }; com.apple.HardenedRuntime = { enabled = 0; }; }; }; }; };
+			compatibilityVersion = "Xcode 3.2";
+			hasScannedForEncodings = 0;
+			mainGroup = B26F88CDD2D68FAEB4B4CF65;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (87B28EA55D84EA8D864786D1, 06397FB5EE03701DAFA2EC39, 473571CD748C5078B07BE1A1, CF71054AF57A060AE7B2A27D, FC2B7C85B57E315C5FA96B15);
+			knownRegions = (en, Base);
+		};
+	};
+	rootObject = 0B07692D9771584CF18C7259;
+}
